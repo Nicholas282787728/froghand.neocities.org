@@ -1,0 +1,2638 @@
+
+
+
+            ____            _____   _  __ _       ______ __     __
+           |  _ \    /\    |  __ \ | |/ /| |     |  ____|\ \   / /
+           | |_) |  /  \   | |__) || ' / | |     | |__    \ \_/ /
+           |  _ <  / /\ \  |  _  / |  <  | |     |  __|    \   /
+           | |_) |/ ____ \ | | \ \ | . \ | |____ | |____    | |   _
+           |____//_/    \_\|_|  \_\|_|\_\|______||______|   |_|  | )
+                                                                 |/
+  ___ _  _ _   _ _____   _   _ ___     _   _  _ ___
+ / __| || | | | |_   _| | | | | _ \   /_\ | \| |   \
+ \__ \ __ | |_| | | |   | |_| |  _/  / _ \| .` | |) |
+ |___/_||_|\___/  |_|    \___/|_|   /_/ \_\_|\_|___/
+
+                            _  _   __  __   _    ___   _   ___ ___  ___ _  _
+                         _ | |/_\ |  \/  | (_)  / __| /_\ |_ _|   \| __| \| |
+                        | || / _ \| |\/| |  _  | (_ |/ _ \ | || |) | _|| .` |
+                         \__/_/ \_\_|  |_| (_)  \___/_/ \_\___|___/|___|_|\_|
+
+
+    C H A P T E R   1   O F   T H E   H O O P Z   B A R K L E Y   S A G A
+    ---------------------------------------------------------------------
+
+______________________________________________________________________________
+==============================================================================
+
+    BARKLEY, SHUT UP AND JAM: GAIDEN, CHAPTER 1 OF THE HOOPZ BARKLEY SAGA
+    ---------------------------------------------------------------------
+
+                               FAQ/Walkthrough
+                      Copyright (c)2008-2013 DomZ Ninja
+
+==============================================================================
+
+ Author: DomZ Ninja
+ E-mail: domzninja[at]hotmail[dot]com
+ Updated: 03/26/13
+ Version: 1.0
+
+ NOTE: This guide does contain spoilers!
+
+
+______________________________________________________________________________
+==============================================================================
+
+                              TABLE OF CONTENTS
+
+==============================================================================
+
+See that series of numbers to the right of each section? If you want to find
+a specific section in the FAQ, press CTRL + F to open a search box. Type in
+the series of numbers for the desired section that you're trying to find and
+press Enter. Whabam! The search function will take you there in an instant.
+
+
+ [1] VERSION HISTORY.................................................. [0100]
+ [2] CONTROLS......................................................... [0200]
+ [3] CHARACTERS....................................................... [0300]
+ [4] WALKTHROUGH...................................................... [0400]
+
+      Barkley's Apartment............................................. [0401]
+      Neo New York.................................................... [0402]
+      B-Ball Catacombs................................................ [0403]
+      Neo New York Sewers............................................. [0404]
+      Cesspool X...................................................... [0405]
+      Neo New York.................................................... [0406]
+      Neo New York Sewers............................................. [0407]
+      Proto Neo New York.............................................. [0408]
+      Spalding Factory................................................ [0409]
+      Proto Neo New York.............................................. [0410]
+      Underground Railroad............................................ [0411]
+      Liberty Island Ferry............................................ [0412]
+      Liberty Island.................................................. [0413]
+      Barren Outskirts................................................ [0414]
+      Cuchulainn's Tomb............................................... [0415]
+      Barren Outskirts................................................ [0416]
+      Necron 5........................................................ [0417]
+
+ [5] SIDEQUESTS....................................................... [0500]
+
+      Dikembe Mutombo's Tomb.......................................... [0501]
+      Chup Mines...................................................... [0502]
+      Ghastly Darklord................................................ [0503]
+      B-Ball Dimension................................................ [0504]
+      Deathtemple..................................................... [0505]
+
+ [6] BOSSES........................................................... [0600]
+ [7] EQUIPMENT........................................................ [0700]
+
+      Weapons......................................................... [0701]
+      Armor........................................................... [0702]
+      Bling........................................................... [0703]
+
+ [8] ITEMS............................................................ [0800]
+ [9] THANKS/CREDITS................................................... [0900]
+
+
+______________________________________________________________________________
+==============================================================================
+
+[1] VERSION HISTORY                                                     [0100]
+
+==============================================================================
+
+FAQ/Walkthrough #25
+-------------------
+
+ Version 1.0 (02/14/08) - FAQ/Walkthrough complete and submitted.
+
+
+______________________________________________________________________________
+==============================================================================
+
+[2] CONTROLS                                                            [0200]
+
+==============================================================================
+
+.-----------------------------.----------------------------------------------.
+|  Arrow Keys                 |  Move                                        |
+|-----------------------------|----------------------------------------------|
+|  Z                          |  Interact                                    |
+|-----------------------------|----------------------------------------------|
+|  X                          |  Cancel, Run (Hold)                          |
+|-----------------------------|----------------------------------------------|
+|  C                          |  Open Menu                                   |
+'-----------------------------'----------------------------------------------'
+
+Phew! I think you should be able to handle those controls.
+
+
+______________________________________________________________________________
+==============================================================================
+
+[3] CHARACTERS                                                          [0300]
+
+==============================================================================
+
+==============================================================================
+ CHARLES BARKLEY
+==============================================================================
+
+One of the few surviving b-ballers from The Great B-Ball Purge, Charles
+Barkley has been living a life of solitude ever since the tragic event in
+2041. Now that basketball is forbidden, Barkley has been very depressed and
+confused as ever. What lies in his future?
+
+
+--- SPELLS -------------------------------------------------------------------
+
+ Doubleteam - Barkley's default ability can hit multiple times on one target.
+              Costs 10 BP to use.
+
+ Showboat Jam - This spell not only damaged a single enemy, but you will also
+                gain a boost in a random attribute. Costs 20 BP to use.
+                Learned at Level 2.
+
+ Vampslam - Barkley will leap in the air and slam down on a foe, sapping their
+            VP as he gains some back. Costs 10 BP to use. Learned at Level 4.
+
+ Holy Jam - This very powerful spell is only acquired after beating Dikembe
+            Mutumbo in his secret tomb. Costs 35 BP to use.
+
+ Ghost Muscle - This ability can be used to raise Barkley's BRAIN and POWER.
+                It's learned after defeating Ghost Dad. Costs 5 BP to use.
+
+
+==============================================================================
+ BALTHIOS
+==============================================================================
+
+Balthios is the octaroon great grandson of Lebron James. He is a very wise,
+old man and one of the last zaubermancers. Balthios is a friend of Barkley and
+Hoopz, but never likes to talk about himself. Not much is really known about
+Balthios.
+
+
+--- SPELLS -------------------------------------------------------------------
+
+ Fire Zauber - When used, this default ability will lower a single enemy's
+               POWER for a short peroid of time. Costs 5 BP to use.
+
+ Ice Zauber - The powerful ability will deal great damage to a solo enemy.
+              Costs 20 BP to use.
+
+ Water Zauber - Use this spell to inflict Glaucoma and Diabetes on a group of
+                enemies. Costs 10 BP to use. Learned at Level 3.
+
+ Wind Zauber - Attacks a group of foes with wind, then ends the attack with a
+               powerful slash. Costs 25 BP to use. Learned at Level 3.
+
+ Thunder Zauber - This multiple-hit attack will damage one enemy. Costs 25 BP
+                  to use. Learned at Level 4.
+
+ Muscle Zauber - This spell can lower several stats of one enemy. Costs 20 BP
+                 to use. Learned at Level 5.
+
+ Snail Zauber - Learned when acquiring the Snail Zauber, the attack greatly
+                decreases the SPEED of an enemy. Costs 10 BP to use.
+
+
+==============================================================================
+ CYBERDWARF
+==============================================================================
+
+Cyberdwarf was once a normal dwarf from a faraway planet. As he was circling
+earth's atmosphere, his ship crashed onto the planet, resulting in a near-
+death experience. As a result, Cyberdwarf's skin is now of the same material
+used to make b-balls! He is a wise soul who was friends with Lebron James.
+
+
+--- SPELLS -------------------------------------------------------------------
+
+ Insulin Shot - The default ability heals one party member and also cures them
+                of Diabetes. Costs 5 BP to use.
+
+ Dwarven Touch - Cyberdwarf will heal one's VP by half and randomly increases
+                 one of their stats. Costs 10 BP to use.
+
+ Dwarf Knowledge - This spell will fully heal a party member's VP and cures
+                   them of all status effects. Costs 15 BP to use.
+
+ Glaucoma Prayer - Heals the entire party of Glaucoma. Costs 5 BP to use.
+                   Learned at Level 5.
+
+ Dwarf Caress - It will replenish the entire party's VP by 66%. Costs 20 BP to
+                use. Learned at Level 6.
+
+ Chaff Grenade - Inspect Jenkins' corpse on Liberty Island to get his spell.
+                 It will not only deal damage to an enemy, but it also lowers
+                 their GUARD. Costs 10 BP to use.
+
+
+==============================================================================
+ HOOPZ BARKLEY
+==============================================================================
+
+Hoopz is Charles Barkley's son and an aspiring b-ball player. That's a tough
+thing to handle considering how it is banned worldwide, but Hoopz still
+practices day in and day out. He is basically your stereotypical loving and
+obedient son who has many goals for the future.
+
+
+--- SPELLS -------------------------------------------------------------------
+
+ Gun's Slay - Hoopz's default attack can deal a moderate amount of damage to
+              one target. Costs 10 BP to use.
+
+ Bulletdance - The second default attack has the ability to attack multiple
+               enemies at once. Costs 10 BP to use.
+
+ Status Shot - This default spell will inflict Diabetes on one enemy. Costs 10
+               BP to use.
+
+ TrickGun Assault - A much more powerful attack that can deal loads of damage
+                    on a solo target. Costs 30 BP to use. Learned at Level 6.
+
+
+______________________________________________________________________________
+==============================================================================
+
+[4] WALKTHROUGH                                                         [0400]
+
+==============================================================================
+
+You will start off with the opening cinema. Charles Barkley reminisces of the
+events in 2041. He and Balthios talk about how bleak the future is for Neo New
+York while Hoopz practices his b-ball skills. Balthios leaves just as Michael
+Jordan enters Barkley's apartment. Jordan and Barkley scuffle, and he leaves.
+
+
+==============================================================================
+ BARKLEY'S APARTMENT                                                    [0401]
+==============================================================================
+
+ Enemies: None
+   Items: Ecto Cooler
+
+------------------------------------------------------------------------------
+
+You will take control of Charles Barkley as he sets out to get some medicine.
+However, stick inside his apartment for a bit. Walk into the kitchen and
+inspect the oven for an Ecto Cooler. Go south to reach the foyer. Descend the
+stairs and talk to Gus to learn more about Michael Jordan.
+
+He now goes by the name "Inspector Jordan". After b-ball was banned, Jordan
+was the first to join the B-ball Removal Department. So he's basically a
+filthy cop now. And he used to be such a good role model. Anyways, exit your
+apartment to reach the streets of Neo New York.
+
+
+==============================================================================
+ NEO NEW YORK                                                           [0402]
+==============================================================================
+
+ Enemies: None
+   Items: Ecto Cooler x4, Steroid x3, Tobacco x2
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   Talk to the bum wandering around for
+ |           - SHOP -            |   pretty hilarious results. Speak to the
+ o-------------------------------o   throbbing gas pump to the right of the
+ | Volleyball................100 |   apartment to save your game. Go west to
+ | Wrist Brace................70 |   the next area and talk to the woman to
+ | Jersey.....................55 |   learn more about The Great B-Ball Purge
+ | Bapes......................22 |   and why Charles Barkley isn't exactly
+ | Sunglasses.................18 |   thrilled to be a part of the city. Enter
+ | Backwards Cap..............15 |   the building next to her (press Z next to
+ o-------------------------------o   the door) to enter Chin's Store. Talk to
+                                     Chin to receive the goods: five Ecto
+Coolers, three Steroids, and two Tobaccos. Exit the store and move south past
+the soldier. Talk to the punk with the red mohawk if you wish to buy any Ecto
+Coolers. The dealer below will sell you Chups for some dough.
+
+However, go south through the parking lot and talk to the Pusher-Man. He has a
+lot of stuff in store for you, so you may want to pick up the Jersey and the
+Volleyball; both will raise your POWER and GUARD a lot. As for the third
+equipment, you can go with anything; I went for the Bapes.
+
+Return to the street near Chin's Store and walk to the left. If you wish to
+access a hidden area late in the game, then DO NOT give the little kid near
+the chuch a Neo-Shekel. Enter the church and speak to the priest, who just
+happens to Larry Bird. LMAO. Converse with Father Bird for a bit, then leave.
+
+Now that you're done with your errands, head back home. Barkley will start to
+see things from the past. Return to the apartment and save your game again.
+Charles passes out on the couch and just happens to miss an important news
+broadcast. Another Chaos Dunk was performed, destroying all of Manhattan.
+However, Charles Barkley is the only person who can perform such a move. He is
+awaken by the sound of Inspector Jordan and his platoon.
+
+Jordan is ready to arrest you on sight, but Barkley has other plans. The
+soldiers will attempt to tazer you, but you'll have to quickly press the key
+onscreen to avoid the attack. Get hit twice and you die. Avoid the first two
+soldiers to escape the room. Input another two buttons to finally flee the
+apartment.
+
+Avoid the group of soldiers outside the same way to move on. Dodge the next
+set, then continue down the alley. All of the button inputs are the same, so
+if you keep dying, all you need to do is memorize them. Barkley will be
+cornered in the alley and is ready to surrender, but a mysterious figure will
+aid him in his escape.
+
+
+==============================================================================
+ B-BALL CATACOMBS                                                       [0403]
+==============================================================================
+
+ Enemies: Ball Brain, Slam Spectre, Zomballer
+   Items: B-Ball, Battlers Tome 1, Bapes, Battlers Tome 2, Battlers Tome 3,
+          BBall Shard, BBall Tear x4, Chicken Dew x2, Ecto Cooler x2, Gatorade
+          Gum, Jacket, Jersey, Protein Paste x5, Volleyball
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   The mysterious cloaked person turns out
+ |      - VENDING MACHINE -      |   to be the Ultimate Hellbane and joins
+ o-------------------------------o   your party. I suggest reading the three
+ | BBall Tear................220 |   Battler's Tomes to learn the basics of
+ | BBall Juice...............125 |   battling and all that junk. Save at the
+ | Steroids..................100 |   pump and move east to find your first
+ | Tobacco...................100 |   enemy. Battling is turn-based, but you
+ | BBall Shard................90 |   must do a lot more than sit back and
+ | Ecto Cooler................66 |   watch each attack. When in battle, read
+ | Protein Paste..............23 |   in the menu how to perform each move.
+ | Insulin....................20 |
+ | Chup.......................15 |   Once the battle ends, continue to the
+ o-------------------------------o   right to reach a fork. Go south and head
+                                     through the tunnel all the way to the
+Once the battle ends, continue to the right to reach a fork. Go south and
+left. Inspect the tombs of Patrick Ewing and Muggsy Bogues as well as THE b-
+ball to get a BBall Shard and two BBall Tears. Return to the grating to the
+right and walk across. Inspect the globe for yet another Space Jam reference.
+Inspect the next two tombs for two more BBall Tears. Move onto the next area.
+
+Ultimate Hellbane suggests that you should watch your steps on the grating.
+Make sure to walk (don't run!) across to reach the other side safely. Continue
+south down the hall to reach a large pool containing the last memories of more
+famous b-ballers. Barkley questions his decision to use the first Chaos Dunk,
+but nothing can be changed. Inspect the two wall panels on the north side of
+the room for a Jersey and a Volleyball.
+
+Go east to spot a statue of the Ultimate B-Ball. This Healing B-Ball can
+well... heal your VP and BP, so do so and continue on. Hellbane stops Barkley
+and feels the prescense of a ref. A ref that is trying to escape to the B-Ball
+Dimension. However, such a ghastly creature is evil, so get ready to jam!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Dread Ref
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 2
+
+This boss is very easy and doesn't have too much health. Technical Foul can
+Foul one of your party members, and Knife Boot Face Gash can deal a lot of
+damage. Fortunately, many of the hits have a high chance of missing. You can
+use your various skills, but they aren't necessarily needed. Most powerful
+physical attacks, such as Barkley's Forward Jumper and Hellbane's Zauber Slash
+is enough to put him away after enough hits. Remember that you can use Ecto
+Coolers to refill your VP.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Continue through the tunnels after defeating the Dread Ref. If you inspect the
+wall panel past the boss battle, you will find five Protein Pastes. Open the
+nearby tomb, Kobe Bryant will attack. He isn't too tough, so use physical
+attacks to put away the legend.
+
+After Barkley cries about destroying his former friend and b-ball star,
+proceed north to reach a pump and a vending machine. Open the wall panel next
+to the pump for Bapes. You can purchse some items from the vending machine; go
+with some Insulin and Chup. Once done window shopping, save at the pump.
+
+Walk to the left and take the first path leading south. Open the wall panel
+for two Chicken Dews and return to the tunnel. If you inspect the wall panel
+between the two tunnels, you will find a Jacket. Now take the second path to
+find a sliding tile puzzle. Sliding tile puzzles suck, but the solution for
+the tile puzzle is:
+
+ Right, Right, Down, Left, Left, Down, Right, Right, Up, Up, Left, Left
+
+Once the puzzle is complete, you will earn a Gatorade Gum. If for some reason
+you mess up, just leave and reenter the area to reset the tiles. Go north back
+to the main tunnel and move west. Open the wall panel for three Ecto Coolers
+and turn back; there is nothing valuable further on. Return to the vending
+machine and stock up on any more goods you need (make sure you have some
+Tobacco and Ecto Coolers if you're all out) and save again.
+
+Proceed north to the tomb of Lebron James as the Ultimate Hellbane reveals
+himself to be Balthios! Lebron's ghost tells Barkley of B.L.O.O.D.M.O.S.E.S
+and they may be using the Ultimate B-Ball (y' know, the one from Space Jam)
+for evil intentions. Before fading away, James tells Barkley to find
+Cyberdwarf, whoever (or whatever) that is. After the ghost disappears, another
+evil monster comes to crash our party.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: BBall Monster
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 3
+
+The BBall Monster is certainly tougher than the Dread Ref from before. His
+attacks are very strong, especially against Baltheos. His Ball Punch can deal
+around 95 damage to Baltheos! His Juke Spinner attack can hit several times
+between both party members, dealiing around 20 damage a pop. BBall Twister is
+another strong attack that deals around 50 damage in one hit.
+
+The key to winning is to guard and lower the BBall Monster's POWER. Use
+Baltheos's Flame Zauber has the ability to lower its POWER, so use the attack
+when you get a chance. The monster can use Brace Onself, which will raise its
+POWER, so definitely use Flame Zauber if it uses the ability. Once it is
+weakened, unleash your greatest attacks, such as Ice Zauber and Barkley's
+Showboat Jam. Maintain your VP and occasionally guard to lower the chance of
+getting pummeled by the BBall Monster. Not too tough of a fight when powerful
+attacks can deal 100-200 damage.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Once the battle comes to a close, you will obtain Lebron's sacred B-Ball. It
+is revealed that Cyberdwarf is an old friend of Lebron's, so it looks like we
+will have to search high and low for this guy. The duo leaves the catacombs.
+
+
+==============================================================================
+ NEO NEW YORK SEWERS                                                    [0404]
+==============================================================================
+
+ Enemies: Ball Droid, Ball Spider, Whistle
+   Items: Chicken Dew, Ice Zauber
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   First off, make sure to equip the B-Ball
+ |      - VENDING MACHINE -      |   to Barkley to significantly increase his
+ o-------------------------------o   POWER. Walk forward, opening the chest on
+ | Chicken Fry...............699 |   the right for an Ice Zauber. Give it to
+ | BBall Tear................220 |   Baltheos immediately and move north to
+ | Chicken Dew...............179 |   find a vending machine and a pump. Talk
+ | BBall Juice...............125 |   to the odd robot near the pump and it'll
+ | Steroids..................100 |   join your party (at Level 3). This is
+ | Tobacco...................100 |   Vinceborg 2050, an android recreation of
+ | BBall Shard................90 |   Vince Carter. His stats are very good, so
+ | Ecto Cooler................66 |   you shouldn't have to worry about his
+ | Fstone Mvitamin............25 |   equipment or anything.
+ | Protein Paste..............23 |
+ | Insulin....................20 |   If you need, stock up on Ecto Coolers or
+ | Chup.......................15 |   Tobacco. If you wish, you can grab a few
+ | Alcohol....................10 |   Alcohols or Fstone Mvitamins. Save at the
+ o-------------------------------o   gas pump and move north. You can test out
+                                     Vinceborg in battle, and boy, he has some
+powerful attacks. His Eye Laser attack is awesome, since you can freely move
+between targets when the attack is under way. Defeat the enemies north of the
+vending machine and go up the ladder at the end.
+
+Pick up the Chicken Dew up here and climb back down. Return to the fork just
+past the vending machine and go east. Climb the next ladder at the end and
+continue through the tunnels to eventually reach Cesspool X.
+
+
+==============================================================================
+ CESSPOOL X                                                             [0405]
+==============================================================================
+
+ Enemies: None
+   Items: Poem, Snail Zauber
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   Talk to the vulture (yeah, you read that
+ |           - SHOP -            |   right) to gain access to Cesspool X. Go
+ o-------------------------------o   forward to get stopped by a snail. He'll
+ | Spiked B-Ball.............475 |   give you a Poem in order to deliver it to
+ | Dwarf Warhammer...........411 |   the kitsune. The gang reads it and finds
+ | Dwarf Pride...............208 |   out that the poem is absolutely dreadful,
+ | Time Zauber...............201 |   so they decide to cut the snail a break
+ | Referee Uniform...........175 |   and revamp the whole thing. Of course,
+ | Trenchcoat................156 |   you don't have to, but you'll be missing
+ | Thunder Zauber............154 |   out on a great item. Save your game
+ | Sweatband..................89 |   at the pump north of the fox (don't talk
+ | Ace Bandage................75 |   to her yet). After saving, talk to the
+ o-------------------------------o   residents of Cesspool X. Some give you
+                                     funny responses, like the guy who was
+ o-------------------------------o   surgically altered to look just like
+ |           - SHOP -            |   Huckleberry Hound and Yogi Bear.
+ o-------------------------------o
+ | Chicken Fry...............699 |   The inn is next to Yogi Bear, so you can
+ | BBall Tear................220 |   pay up 25 Neo-Shekles if you wish to heal
+ | Chicken Dew...............179 |   up. The weapon shop is near the kitsune,
+ | BBall Juice...............125 |   so go inside and stock up on the goods. I
+ | Steroids..................100 |   suggest buying new equipment for Balthios
+ | Tobacco...................100 |   and Vinceborg. Pick up a Trenchcoat and
+ | BBall Shard................90 |   an Ace Bandage for Baltheos and a Spiked
+ | Ecto Cooler................66 |   B-Ball for Vinceborg. If you have enough
+ | Fstone Mvitamin............25 |   money left, then you can probably stock
+ | Protein Paste..............23 |   up Barkley's bling too. Remember that you
+ | Insulin....................20 |   should sell all old bling to get more
+ | Chup.......................15 |   money back.
+ | Alcohol....................10 |
+ o-------------------------------o   Alright, now about that poem. Hopefully
+                                     you chose to revamp the thing, since you
+can get a nice item if you do so. Speak the kitsune, J. Lindsay, to learn
+about her interests. After interviewing her, the gang retreats to the inn to
+write a halfway-decent poem. Baltheos's suggestions suck, but Vinceborg chimes
+in. Robots know nothing about love, so you should probably ditch his ideas. Or
+maybe not! Go with Vince's lines:
+
+ "enjoys hunting small prey"
+ "does not mind animal feces much"
+ "and her friends in Cesspool X"
+
+Deliver the poem to J. Lindsay and she will love it. Score! The couple will
+leave and you will receive a Snail Zauber. Hopefully you followed Vince's
+advise. If not, then you will still get rewards. If you decide to give J.
+Lindsay the poem like it is, you will receive 600 Neo-Shekels. If you decide
+to screw it up with Baltheos's sappy lines and make the poem even worse,
+you'll only get 400. Still not too shabby.
+
+Alright, now we are ready to find Cyberdwarf. Save once again and enter his
+house, which is right next to the pump. Baltheos warns that he isn't the most
+attractive of folks, so try not to stare. I mean, his entire body is composed
+of b-balls...
+
+Cyberdwarf joins the party after agreeing to help find Hoopz. It's time to
+return to Neo New York again, so exit the house. Save your game and proceed
+north to the next area. Go to the left at the intersection to reach the city.
+
+ NOTE: There is a secret dungeon inside of Cyberdwarf's house. I recommend
+       that you go through the place, since you can get some new items and
+       skills. Skip to Section 5.1 if you decide to take a trip there.
+
+If you managed to complete Dikembe Mutumbo's Tomb and got the Femur, then talk
+to the dog wandering around (the normal one, not the freaks). It will begin to
+talk and trade its Nikes for your Femur. Do so and equip it to a slow
+character to boost their SPEED by 14!
+
+
+==============================================================================
+ NEO NEW YORK                                                           [0406]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+Enter the church to the left. Michael Jordan is waiting for you with Hoopz.
+Father Larry has been brutally killed, and before the same can happen to
+Hoopz, he begins to pray to Clispaeth. Vinceborg freaks out and leaves your
+party to destroy "the one", who is apparently Hoopz! Time to fight whomever
+stands in our way, even if that happens to be Vinceborg!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Michael Jordan, Vinceborg 2050
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 5
+
+Michael Jordan is fairly weak, so do everything in your power to take him out
+first. His Hurricane Shot can deal multiple shots to various party members and
+H-H-Head Shot can cut a nice chunk out of one party member's VP. If you have
+Holy Dunk, use it on Jordan to deal around 250 damage. Use Baltheos's Thunder
+Zauber and Cyberdwarf's physical attacks to take out Jordan in hopefully one
+or two rounds. He isn't much of a threat, but get him out of the way first.
+
+Once Michael Jordan is down for the count, it's just you and Vinceborg. Use
+Cyberdwarf to restore Barkley and Baltheos's BP and leave those two to the
+attacking. Like you know, Vince's Eye Laser attack can really hurt. Refractor
+Beam is equally as bad, but luckily those are his only two offensive attacks.
+He does have Recharge, which heals around 240 VP. Like always, lower his POWER
+with Flame Zauber and commence with the beatdown. This battle isn't exactly
+hard, but take note that Vinceborg has a lot of VP.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Jordan flees and is followed by Vinceborg 2050: B.L.O.O.D.M.O.S.E.S agent of
+death. Yeah, no more Vince Carter. In his dying words, Larry Bird apologizes
+to Charles. :( Anyways, the group retreats to Cyberdwarf's house.
+
+
+==============================================================================
+ NEO NEW YORK SEWERS                                                    [0407]
+==============================================================================
+
+ Enemies: Ball Droid, Ball Spider, Whistle
+   Items: Chicken Dew, Facemask, Turkey Feather
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   The party talks and more info is learned,
+ |           - SHOP -            |   like how B.L.O.O.D.M.O.S.E.S killed
+ o-------------------------------o   Lebron James in order to harness the
+ | Spiked B-Ball.............475 |   power of the zaubers. The new mission is
+ | Dwarf Warhammer...........411 |   to create a new Ultimate B-Ball to
+ | Time Zauber...............201 |   counter the evil corporations, so we are
+ | Steroids..................100 |   headed off to the Spalding Factory to
+ | BBall Shard................90 |   find some answers.
+ | Ecto Cooler................66 |
+ o-------------------------------o   Well, Hoopz has joined the party, so it's
+                                     best that we rest here in Cesspool X for
+ o-------------------------------o   now. Heal at the inn and stock up on some
+ |      - VENDING MACINE -       |   bling for the kid. Give him a Referee
+ o-------------------------------o   Uniform and an Ace Bandage. Save your
+ | Chicken Fry...............699 |   game and when you try to leave to the
+ | BBall Tear................220 |   north, one of the townsfolks will give
+ | Chicken Dew...............179 |   you a Turkey Feather. Yay, a useless
+ | BBall Juice...............125 |   item! Stupid animal people. Exit and go
+ | Steroids..................100 |   to the right to reach the next area.
+ | Tobacco...................100 |
+ | BBall Shard................90 |   Walk east until you reach a small path
+ | Ecto Cooler................66 |   leading north. Follow it and open the
+ | Fstone Mvitamin............25 |   chest at the end for a Facemask. This
+ | Protein Paste..............23 |   equipment greatly boosts GUARD, so I gave
+ | Insulin....................20 |   it to Hoopz. Walk around the perimeter of
+ | Chup.......................15 |   the area. There is a ladder at the botoom
+ | Alcohol....................10 |   right corner, but pass it and continue
+ o-------------------------------o   down the path. You can find another
+                                     ladder at the bottom left corner. Go up
+the ladder to find a Chicken Dew and a letter from Dr. Allard. Hmm...
+If you want, you can return to the southeast ladder to find an area with a
+shop. He has some equipment and items, so you should check it out.
+
+The secret agent dude at the center of the area demands that you fork over
+5000 Neo-Shekels to proceed, but that is a little out of hand. Return to the
+surface and go west. Enter the doorway and descend the stairs. The punk on the
+left is a big fat meanie, and the guy on the right spews random lies (there is
+no key and you cannot get into the locked door. So just ignore his ass).
+Proceed up the stairs to reach a vending machine and a pump.
+
+There is a man next to the vending machine that asks you to spare him 10 Neo-
+Shekels. If you are willing to be a big enough jerk to reach Deathtemple, then
+do not give the man any dough.
+
+Save at the pump and pick up any items from the vending machine. Enter the
+building to find yourself in what appears to be a waiting room. Talk to the
+two suits at the front of the room for a scolding. The party suggests what we
+should do. There are three options:
+
+ OPTION 1: Pay the toll. Peh, like we're gonna do that. There are two much
+           easier ways to solve our problem here. >_>
+
+ OPTION 2: Bust into his office. You can either attack the toll-keeper guard
+           or the two suits in front of Dr. Allard's office. It's your choice,
+           but they can be pretty tough foes.
+
+ OPTION 3: Find Rufus. The recommended path. Enter Dr. Allard's office and
+           talk to the suit on the left. Ask if he is Rufus, and the suit will
+           tell you that he is doing guard duty in one of the tunnels. Leave
+           the office and go down the ladder past the save pump. Rufus is down
+           here with the guy blabbing about the locked door. He is glad that
+           the party is standing up to the doc and tells you his password:
+           "when we get the final hardware, the performance is just going to
+           skyrocket." Cool! Return to the office and tell the two suits the
+           password. Once the party enters, you will have to fight a guard.
+           He is cake. However, the doctor will attack afterwards.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Dr Allard
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 6
+
+The doctor has very high GUARD, so dealing loads of damage to him can be hard.
+His attacks are very deadly, such as Heart Stab (it can deal around 200-250
+damage to one character). Dirty Needles is fairly weak, but can target many
+characters at once. Faulty Plague Vaccine is probably Dr. Allard's most lethal
+attack. He can hit one party member three times, each dealing around 100
+damage. That's not all; with every hit, he will inflict a status effect.
+
+Assign one character to heal non-stop. I don't know why, but my Balthios blew
+in this fight, so I assigned him with the healing role. Have Hoopz use
+Accurate Shot, because his skills are very weak. Cyberdwarf should use any of
+his physical attacks (I'm a fan of Jab) and Barkley can use Forward Jumper. I
+suggest spending the first turn or two lowering the doc's POWER and SPEED with
+Fire and Snail Zauber, respectively, then let Baltheos heal for the rest of
+the fight. It's not very hard, but it may take a little while.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The gang will arrive near the gate to Proto Neo New York after the boss
+battle. Head to the gate and walk through where the suit used to be. When you
+are ready to enter Proto Neo New York, go down the ladder. As you climb down
+several ladders, the final one will break. Like in the beginning of the game,
+input the key shown onscreen (it's just Up three times) to survive the fall.
+Go through the gate to the city.
+
+
+==============================================================================
+ PROTO NEO NEW YORK                                                     [0408]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   Hmm, this place looks like a dump. The
+ |           - SHOP -            |   party decided to take a long-needed break
+ o-------------------------------o   from all the action. It's bonkers!
+ | ZX ModelX571X.............343 |   Cyberdwarf tells Hoopz about Clispaeth
+ | Battlestech Gun...........287 |   and the Cyberpocalypse, so listen up to
+ | Chicken Dew...............179 |   learn some of the backstory. The dwarf is
+ | Mithril'braster...........176 |   interrupted by some sort of laughter, and
+ | Ultimate Wristband........165 |   a mystery person tells everyone to find
+ | BBall Shard................90 |   shelter immediately. Proto Neo New York
+ | ZX ZaubertechZ.............78 |   seems to be haunted by Ghost Dad. The
+ | Ecto Cooler................66 |   mystery person turns out to be Juwanna
+ | ZX Zaubertech1.............32 |   Mann! The only way to reach the Spalding
+ o-------------------------------o   Building is to defeat the Ghost Dad.
+                                     First, enter the house to the right of
+where you just were. If you wish to go on a one-way track to Deathtemple, then
+refuse to apologize to Wildman. Ooh, I'm so evil. *insert evil laugh*
+
+Exit and move west. Save at the pump and enter the house on the right to find
+the inn. If you want to stay and rest, then pay up 30 Neo-Shekels. Go inside
+the large building to the left of the pump to find a shop and a gambling hobo.
+Ignore the gambler, since he doesn't even have any money to offer if you win.
+Talk to the guy near the hobo and he will ask for you to retrieve the
+F.I.N.A.L. G.U.N. from the Spalding Building. You will get a nice reward if
+you fill your end of the deal.
+
+There is a gun salesman in this house, so check out what he has to offer. Pick
+up a ZX ModelX571X for Hoopz and a few Ultimate Wristbands for the rest of the
+party. It's pricey, but you should have enough money if you sell your old
+equipment. Leave and go over to the bulletin board to the left of the pump.
+Take the Ghost Dad hunter mission, save your game, and go talk to Juwanna Mann
+again. She will take you to the ghost.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Ghost Dad
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 6
+
+Oh God, the character sprite for Ghost Dad is LOL-worthy. However, he is the
+toughest boss you have faced yet. His Fog Breath can lower the entire party's
+SPEED in one shot. Spook can deal around 100 damage and inflicts Glaucoma on
+the target. Ghostly Curse is even worse, since it inflicts random status
+effects on the entire party. Use Dwarf Caress if this attack ever comes up.
+Ectoplasm is a straight-up powerful attack, which can deal around 300 damage
+to one character. Watch out for Ghost Muscle, which will raise Ghost Dad's
+POWER significantly. Use Fire Zauber on Baltheos's next turn and whip out the
+Ecto Coolers for this fight.
+
+Even with Hoopz's new weapon, he should stick to the group healer because he
+is still very weak. If the entire party is perfectly fine, then have him use
+TrickGun Assault. It is a surprisingly powerful attack. Have Cyberdwarf attack
+occasionally, but have him use Dwarf Caress and Glaucoma Prayer if the other
+party members are hit with status effects. Baltheos should use Fire Zauber and
+Muscle Zauber at the start of the battle, then resort to Zauber Slash.
+
+Barkley has a wide range of powerful attacks. Holy Dunk can deal over 300
+damage in one shot, but it drains your entire BP bar. So instead of using Holy
+Dunk and then refilling all his BP, it may be better to use a handful of
+weaker attacks such as Vampslam and Doubleteam. Remember to stock up on some
+Ecto Coolers and BBall Shards if you happen to lose the battle. It'll take a
+very long time (much longer than the other bosses) and you may die once or
+twice, but hang in there and you should eventually win.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Ghost Dad will explode and the fog will lift. After a conversation with
+Juwanna Mann, stay at the inn. During your stay, Ghost Dad will contact
+Barkley and thank him. Defeating the ghost has freed him from the chains that
+bound him in Proto Neo New York, and he can finally rest in peace. Barkley
+will learn the Ghost Muscle technique.
+
+Save at the pump and go west to reach the Spalding Watergrounds. Follow the
+road and talk to the suit outside of the building. Like the guy in the gun
+stor, he will ask you to retrive the F.I.N.A.L. G.U.N. for him. If you do so,
+you'll receive 2500 Neo-Shekels. All the better reason to find the weapon!
+
+
+==============================================================================
+ SPALDING FACTORY                                                       [0409]
+==============================================================================
+
+ Enemies: Mech Gatorade, Mutant Baller, Slam Phantom
+   Items: BBall Juice, Blue Keycard, Dwarfbane, F.I.N.A.L. G.U.N., Green Key,
+          Prototype B-Ball, Red Keycard, Time Zauber
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   Barkley will notice a red and blue screen
+ |      - VENDING MACINE -       |   at the entrance. Smartypants Hoopz says
+ o-------------------------------o   that they will need keycards to use these
+ | Chicken Fry...............699 |   computers, which will activate lifts in
+ | BBall Tear................220 |   the factory. We don't have any keycards
+ | Chicken Dew...............179 |   yet, so save at the pump and go shopping
+ | BBall Juice...............125 |   at the vending machine.
+ | Steroids..................100 |
+ | Tobacco...................100 |   Walk down the hallway and take a left at
+ | BBall Shard................90 |   the intersection, then go in the doorway.
+ | Ecto Cooler................66 |   Barkley suggests that we check every
+ | Fstone Mvitamin............25 |   computer for the keys, but that isn't
+ | Protein Paste..............23 |   needed. Telling you where to find stuff
+ | Insulin....................20 |   is my job! From the start of the room, go
+ | Chup.......................15 |   into the second cubicle on the right and
+ | Alcohol....................10 |   inspect the trashcan for a Dwarfbane.
+ o-------------------------------o   Give it to Dwarfbane and enter the third
+                                     cubicle. Again, scroung through the trash
+to find some BBall Juice. Talk to the janitor in the hall for a really weird
+conversation, then head to the north end of the hall to find a Red Keycard in
+the corner. Before the group can leave, we'll catch a glimpse of a strange of
+a strange flashback concerning Hoopz. Hm.
+
+Now we can return to the entrance of the factory. Use the Red Keycard on the
+computer screen on the left to activate the lift. Go back to the intersection
+and go through the red door. Enter the first cubicle and rummage through the
+trashcan for a Time Zauber. Talk to Leonard the janitor again and then enter
+the next room on the right. Barkley will feel odd in this room and another
+flashback will occur. Quickly pass through and to the next cubicle-filled
+hallway. Inspect the first cubicle's trash to find the F.I.N.A.L. G.U.N.!
+
+Okay, now we can bring it back to one of the two civilians. You can either
+give it to the punk in Proto Neo New York for a Gun's Sticker or you can give
+it to the suit. Try and negotiate some more money out of him and he will fight
+you. If you manage to win, you will get the money AND the gun. Obviously this
+is the way to go. Give the gun to Hoopz after the fight.
+
+Return to where you found the F.I.N.A.L. G.U.N. and proceed down the hall.
+Pick up the Blue Keycard and like before, you'll be treated to another
+flashback. Well, now we know what happened to Leonard and Bill Cosby. Return
+to the entrance of the factory and use the Blue Keycard. Once the lift is
+working again, enter the northern door at the fork.
+
+Talk to Leonard to break the news to him that he's... kinda dead. As a result,
+the janitor thanks you by giving the party a Green Key. Use it on the green
+door in the room. A mystery man will quiz Barkley on b-balls, and after some
+crazy metaphor mumbo-jumbo, he will reveal himself as Scott H. Creelman, the
+CEO of Spalding. Battle time!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Scott Creelman
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 7
+
+The only attack you should watch out for is Kamikaze Jam, since it can
+basically kill someone in one hit (not literally, but it deals around 540
+damage). Make sure to use Chicken Dews and Steroids when needed. Otherwise,
+his techniques aren't that dangerous. Low Blow is very weak and Illusion Shot
+can deal around 65 damage to multiple targets. You should be able to deal a
+load of damage with skills such as Vampslam, Thunder Zauber, and TrickGun
+Assault.
+
+After losing a lot of health, Scott Creelman will restort to dirty tactics.
+Glory of BBall will restore around 550-570 HP and cure the CEO of all status
+ailments. He'll also start to use BBall Bash, which can deal around 80 damage
+to one target THREE times. Remember, Steroids and Chicken Dew. Have Cyberdwarf
+use Dwarf Caress and make sure to deal as much damage as possible with the
+rest of the party to take him out before he can heal.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Scott Creelman will give Barkley the Prototype B-Ball before dying. But we
+have to recharge it according to the CEO. All of a sudden, Inspector Jordan
+will attack Hoopz with Type 2 Diabetes, which is uncurable. The gang returns
+to Juwanna Mann's house with Hoopz. She says the only way to possibly save
+Hoopz is to contact an old hermit south of Proto Neo New York.
+
+
+==============================================================================
+ PROTO NEO NEW YORK                                                     [0410]
+==============================================================================
+
+ Enemies: None
+   Items: Ultimate Wristband
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   Head to the save pump and save your game,
+ |           - SHOP -            |   then go south to the Sunbaked Parking
+ o-------------------------------o   Lot. Go down the road to find the parking
+ | Dwarfstear................788 |   lot, where the party will decide where to
+ | Mystic B-Ball.............700 |   go next. Cyberdwarf suggests to head
+ | Tek-Skeleton..............507 |   through the Underground Railroad.
+ | Battlestech Gun...........287 |
+ | Referee Uniform...........175 |   Talk to the man nearby and pick up some
+ | Goggles...................168 |   new bling and equipment. Grab a Mystic
+ | Athletic Supporter........160 |   B-Ball, Dwarfstear, and a Tek-Skeleton.
+ | Steroids..................100 |   If you wish, you can buy an Athletic
+ | BBall Shard................90 |   Supporter as well. Of course, pick up
+ | Ecto Cooler................66 |   some Steroids and Ecto Coolers if you are
+ o-------------------------------o   almost out.
+
+There is an Ultimate Wristband in the southwest end of the parking lot, so
+pick it up as well. There are two ways to reach Liberty Island: through the
+Underground Railroad or through the ferry. I will describe both paths in the
+next two sections.
+
+
+==============================================================================
+ UNDERGROUND RAILROAD                                                   [0411]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+The Underground Railroad is on the north end of the parking lot. Go through
+the door, then down the stairs in the corner. Talk to Harriet Tubman down here
+and agree to board the train. The party hears a noise in the back car, so they
+go check it out. It's the B-Ball Removal Department! You will have to input
+the key onscreen several times, but it isn't difficult.
+
+After beating the sergeant, he will activate a bomb. In order to survive,
+we'll have to ditch the car by detaching it from the rest of the train. Like
+Cyberdwarf suggests, we will have to pull the rightmost lever to save
+yourself. As he moves to each lever, tell him that it's the wrong one. Do this
+twice until he's standing in front of the lever on the right. Then tell him to
+pull it. Cyberdwarf manages to escape and everyone is saved. That's it, you're
+home free! Go up the stairs to reach Liberty Island.
+
+
+==============================================================================
+ LIBERTY ISLAND FERRY                                                   [0412]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+The ferry is on the eastern end of the parking lot. Proceed to the docks and
+talk to the captain to get on board, free of charge! Once the boat sets sail,
+you will only have very little relaxation time before Baltheos freaks out over
+the fact that it's Columbus Day. He runs below deck as Barkley and Cyberdwarf
+are attacked by an evil fiend.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Duergar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 8
+
+So it's just Barkley and Cyberdwarf. Great. Gold Encrusted Pick Toss hits four
+times, each dealing around 85 damage per hit. Gemstorm also hits all party
+members for around 200 damage, so it's a real doozy. Level 2 Melf's Acid Arrow
+not only inflicts around 220 damage, but also inflicts Diabetes on its
+intended target. As you can see, Duergar is very powerful, and having only two
+party members makes this battle a lot harder than normal bouts.
+
+It may seem kooky, but have Cyberdwarf heal every turn while Barkley sticks to
+attacking the Duergar. You will probably need to heal every turn, so have
+Cyberdwarf use Dwarf Caress and various items to cure himself and Barkley.
+Have Barkley power up with Ghost Muscle, then use Vampslam and Showboat Jam.
+Have Cyberdwarf restore any lost BP with BBall Shards when needed. Normally a
+battle like this would be cake, but having only two party members certainly
+doesn't help.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Turns out that the Duergar WAS Balthios! The only reason Balthios freaked out
+earlier is because long ago, an old gypsy placed a curse on him, and every
+Columbus Day he turns into a bloodthirsty Duergar. Oh well, we won't have to
+worry about that again until next year. Anyways, the group arrives at Liberty
+City after the conversation.
+
+
+==============================================================================
+ LIBERTY ISLAND                                                         [0413]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   The Liberty Island quest is like the old
+ |      - VENDING MACINE -       |   school point-and-click adventure games.
+ o-------------------------------o   From the start, walk towards the rubble
+ | Chicken Fry...............699 |   right above you and inspect the sparkly
+ | BBall Tear................220 |   rock. Take the Triangle Rock. North of
+ | Chicken Dew...............179 |   where the rock was is a vending machine
+ | BBall Juice...............125 |   and a pump. Save and stock up, then head
+ | Steroids..................100 |   up the stairs to the right. You won't be
+ | Tobacco...................100 |   able to get inside the Statue of Liberty
+ | BBall Shard................90 |   (looks a little different...), so turn
+ | Ecto Cooler................66 |   around and return to the previous area.
+ | Fstone Mvitamin............25 |
+ | Protein Paste..............23 |   Walk west past the vending machine and
+ | Insulin....................20 |   continue into the house. You'll meet up
+ | Chup.......................15 |   with Rutherford. He says that Yelmirb can
+ | Alcohol....................10 |   cure Hoopz of his Type 2 Diabetes. The
+ o-------------------------------o   bad news is that we cannot reach him yet.
+                                     We will need the Palladium Orb Scepter to
+reach his whereabouts. Try and take the pipe near the carpet, but we cannot
+get it yet. Poor Barkley has no manners! As Rutherford first if we can take
+the Pipe, then get it once he allows you to. Exit Rutherford's house and go
+south. Walk down the staircase and examine the boulder blocking the cave. Use
+the Pipe and the Triangle Rock on the boulder to gain access into Jenkin's
+cave.
+
+Select "Use Jenkins" to talk to him. The party is informed that Rutherford is
+actually trying to kill Yelmirb. He hands over the Orc Scepter if Barkley
+promises to kill Raffleson/Rutherford. Return to Raffleson's house to find out
+that he is nowhere to be found. Uh oh! They get trapped inside the house as
+sugar gas pours in. The trap stops though, buying us time to escape the house.
+
+First, inspect the dresser and take a Zaubermancer Garb. Examine the clock:
+it's 12:32. Next, examine the work table on the left and take the Screwdriver
+out of the work table. "Use" the desk to pry it open, revealing a Desk Key.
+Now go over to the bookshelf. You will have to pull three books in a certain
+order to open a secret door. Here is the order: Book 1, Book 2, Book 3, and
+Book 2. Now that the door is revealed, use the Desk Key to open it. We escaped!
+
+Save your game and head back to the Statue of Liberty. Examine the Cultist in
+front of the door. This guy's name is Mack. Talk to him to learn some
+information as he leaves. He now stands in front of the stone slab to the left
+of the pump, so go talk to him. After a very long talk, he will give you 750
+Neo-Shekels and a Sugar Counter. You will have to traverse through the well to
+find the Immaculate Rod.
+
+Before you go down the well, return to Jenkin's cave. Inspect his corpse for
+Cyberdwarf to learn Chaff Grenade. This is a must. Enter the well in the
+center of the city.
+
+The Sugar Counter is presented in the bottom left corner of the screen. If it
+goes over 4.5, then you will die. The key to keeping the sugar level low is to
+not dash. EVER. When down here, you can only walk. Also, you need to stay as
+far away from the sugary (white) piles on the ground. It can be very difficult
+to navigate down here, so take your time. The rocky patches on the walls can
+emit sugar, so wait for the streams of sugar to stop before proceeding past.
+
+Continue through until you reach a bridge. Go across to spot a white and blue
+can of sorts. It will run across a sugary path, but you cannot follow it. Go
+south and around the bend to have a sugar hallucination. Pass by the white
+corpse not too long after to spot the weird thing that ran away before. Is it
+the Diabeastie? No, but it's still hostile!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Reginald
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 8
+
+Well, the mystery man is really Rutherford! Wait, no, it's Raffleson! Or was
+it Richards? Argh, he likes to be referred to as Reginald! Okay, enough with
+his many names. Reginald has many different attacks, and most of them suck.
+Like, they suck for us, because they are powerful. He can summon a Bee Swarm
+which can deal around 75-100 damage three or four times. Greater Earth Spire
+can deal around 300 damage to an ally and Chromatic Orb Level 119 can inflict
+multiple status effects and deal around 100 damage to its target.
+
+You can only damage Reginald when the red force field surrounding his body
+disappears. Until then, your attacks will deal very little damage. When he has
+it up, just heal. As a result, this battle can take a while if you have to sit
+around and wait for his shield to fall. He can make matters worse when he eats
+a sandwich, which can restore 999 of his BP! If no one needs healing, then use
+Cyberdwarf's physical attacks such as Suplex and Toss to lower Reginald's
+stats. It's an annoying battle, but use your most powerful skills of all three
+party members when the shield is down to hopefully end this one quickly.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+After Reginald falls to his doom, collect the Immaculate Rod and return to the
+surface. Restock any items at the vending machine and save your game again,
+then head back to the Statue of Libery to encounter the Diabeastie. Aww, he
+doesn't look too deadly...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Diabeasty
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 9
+
+It seems obvious that the Diabeasty is easily capable of inflicting us with
+Diabeates. Well, thats's what Sugar Storm is for. The attack inflicts Diabetes
+on the entire party. It can also use Glomp to deal around 200 damage to a solo
+target. Grasp of Glucos deals around 120 damage three times to a character.
+Watch out for Spontaneous Sugarification, which is a one-hit KO on any one
+party member. Revive him immediately and keep on goin'.
+
+Use Fire Zauber and/or Muscle Zauber at the start of the battle and start your
+heavy hitting on the Diabeasty. Cyberdwarf should stick to healing the party
+and occasionally using his physical attacks. Try out Chaff Grenade to lower
+the Diabeasty's GUARD. Barkley should use Holy Jam and Vampslam when he gets
+the chance, and Thunder Zauber is definitely Baltheos's best offensive attack.
+The battle isn't very hard, but you will most likely be using a lot of items
+to revive party members and refill BP.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The sugar monster is dead as it drops a Poleshaft. An odd gentleman named
+Octavius Steambrast asks that you give him your new item. If you want to head
+to the Deathtemple and stay evil, then hellz no -- don't give it to him. Save
+at the pump and enter the Statue of Liberty. Go up the ladders to reach
+Yelmirb. It's really Wilform Brimley?! Ehhhh. He eventually agrees to cure
+Hoopz until Vinceborg appears! I forgot about that guy.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Vinceborg 2050
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 10
+
+Hopefully you managed to heal between the two bosses, because you'll need all
+the BP and VP you can get (well duh). Vinceborg still has some of his old
+attacks like Laser, but he has upgraded a bit too. He now can use Proximity
+pass to deal around 140 damage to two characters. He can also use Binary
+Shower to boost random stats of his. Like the previous battle, Vinceborg can
+heal, but now he can heal 400 VP and 400 BP!
+
+You should still be able to take him down rather easily. If you are lucky,
+Vinceborg won't heal that much (if at all) during the fight, so use your most
+powerful skills. Use Muscle Zauber and Chaff Grenade to lower his stats, then
+use Barkley's Ghost Muscle to boost your own. From there on, have Cyberdwarf
+heal while Barkley uses Showboat Jam and Baltheos uses Thunder Zauber. Once
+Vinceborg is near death, resort to Zauber Slash and Forward Jumper to save
+your BP-replenishing items. The fight may range on lengh depending if
+Vinceborg decides to repeatedly heal.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Vinceborg retreats and Hoopz is miraculously healed. Back at the Underground
+Railroad, the party regroups. Barkley lets Hoopz know of his origin, which is
+pretty messed up. Juwanna Mann gives you the Dimension Whistle and says that
+you should head to Cuchulainn's Ruins next. Barkley gives her the stupid
+Turkey Feather in return. Damn, she got the REALLY short end of the stick on
+that trade. Make sure to equip Hoopz of his equipment before talking to the
+train conductor.
+
+
+==============================================================================
+ BARREN OUTSKIRTS                                                       [0414]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   The Barren Outskirts leads to several
+ |           - SHOP -            |   secret areas. Again, I will cover all of
+ o-------------------------------o   the sidequests in Section 5, so check it
+ | Dwarf Muscle.............1499 |   out if you're looking for a guide for the
+ | Dwarfstear................788 |   Chup Mines and the secret boss.
+ | Egyption Gun..............733 |
+ | Mystic B-Ball.............700 |   From the start, go east to the next area.
+ | Tek-Skeleton..............507 |   Go north to reach a campfire. Some of the
+ | Mithril Sweatband.........310 |   guys here are weird, especially the big,
+ | Cyber-Gauntlet............270 |   armored samurai. He likes to talk about
+ | Facemask..................255 |   monsters. >_> There is a shop here too
+ | Hell Zauber...............246 |   that has many nice pieces of equipment.
+ | Zaubermancer Garb.........237 |   It's a lot of money, but pick up a Dwarf
+ | Pumps.....................199 |   Muscle and a Cyber-Gauntlet or two.
+ | Referee Uniform...........175 |
+ o-------------------------------o   Your main goal is to go to Cuchulainn's
+                                     Tomb and do whatever the hell you need to
+there. There is a secret area called the Chup Mines not too far from here (we
+actually passed in on our way here), and I recommend that you go there before
+heading to the tomb. It's up to you, but go to Section 5.2 to find the
+walkthrough for the Chup Mines. If not, then go north at the campfire to reach
+Cuchulainn's Tomb.
+
+
+==============================================================================
+ CUCHULAINN'S TOMB                                                      [0415]
+==============================================================================
+
+ Enemies: Bainshee, Ball Brain, Ball Droid, Ball Spider, Dread Ref, Mech
+          Gatorade, Slam Spectre, Whistle, Zomballer
+   Items: BBall Juice x5, Bloody Zauber, Chicken Dew x5, Chicken Fry x2,
+          H/S Ball, Hell B-Ball, Pumps
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   This is a pretty big place, so brace
+ |      - VENDING MACINE -       |   yourself. At the entrance, open the
+ o-------------------------------o   chests in the corridor on the right for
+ | Chicken Fry...............699 |   five BBall Juices and Pumps. Continue
+ | BBall Tear................220 |   down the northern hall and open the chest
+ | Chicken Dew...............179 |   on the right for five Chicken Dews. Go
+ | BBall Juice...............125 |   north until a gate stops you and head
+ | Steroids..................100 |   through the maze-like tunnels to the
+ | Tobacco...................100 |   right. Take the southern end at the fork
+ | BBall Shard................90 |   and you will come to an intersection. To
+ | Ecto Cooler................66 |   the left is a chest and to the right is a
+ | Fstone Mvitamin............25 |   crystal. Open the chest first for a
+ | Protein Paste..............23 |   Bloody Zauber, then check out the weird
+ | Insulin....................20 |   crystal. In order to open the gate at the
+ | Chup.......................15 |   front of the room, you must hit each of
+ | Alcohol....................10 |   the four crystals in a specific order.
+ o-------------------------------o   The order is:
+
+ Blue   - northeast                  Blue, Green, Purple, Red
+ Green  - southwest
+ Purple - southeast
+ Red    - northwest
+
+You can also find two chests containing 1000 Neo-Shekels and two Chicken
+Fries. Remember that you must quickly hit each crystal in the order shown
+above. The gate should open. Before continuing through, inspect the stone face
+next to the gate to heal your VP and BP.
+
+The party splits up in the next room and each takes their own path. As a
+result, you get to play as all four characters as they each go on their little
+quest! Ooh joy!
+
+Baltheos is up first. Talk to the soldier in front of you to start a battle.
+The Android Officer not only looks vaguely familiar, but isn't that difficult.
+Just spam Zauber Slash every turn. Next up, you will fight... Master Chief?!
+Something like that. Adept Soldier is a bit tougher than the Android Officer,
+but one Thunder Zauber followed by a few Zauber Slashes will put him away.
+Next, you will fight a Greek Warrior. This guy looks familiar too. Again, he
+is a pushover. Once all three battles are won, go up to the room above.
+Baltheos hits the switch and you'll switch to another character.
+
+Now you are playing as Cyberdwarf. You will start off in front of a large
+chasm with a bucket of sand next to you. To navigate across the hole, use the
+action button to throw sand. If it falls down the hole, then you're out of
+luck, but there is an invisible path to take.
+
+Use the sand to find the invisible path and get across. I don't know about
+everyone else, but my game lagged a lot here. Prolly just because my computer
+sucks. Anyways, it's tougher than it looks, but you should get across on your
+first or second try. Cyberdwarf gets by and hits the switch.
+
+There are no enemies to fight with Hoopz, but you will have to traverse
+through a maze. If you mess up, you will end up repeating the same identical
+path over and over. To get through the maze, follow these directions:
+
+ Left, Middle, Left, Right
+
+After you escape, Hoopz will hit the switch and role switches to Barkley.
+
+Another puzzle for Mr. Barkley. His #34 jersey is encased in the corner, and
+there are various crystals in front of a large screen. Each crystal has a
+number, and the number on the screen must total up to 34. In order to do that,
+hit the following switches (from the left):
+
+ First crystal (11)
+ second crystal (3)
+ sixth crystal (15)
+ seventh crystal (5)
+
+They total up to 34 and the door will open. Unfortunately, Barkley falls for
+the trap and Cuchulainn is freed! What the party doesn't know won't hurt them,
+right? RIGHT?!
+
+Once the party forms, go through the newly opened door. Barkley puts the
+Prototype B-Ball into the jamicite and the Hell B-Ball is formed. Barkley runs
+off in a tranced state. Pick up some goods from the vending machine and save
+at the gas pump before heading down the path to find an odd object on the
+ground. This is Shimmerglobe, some weird b-ball thing that is like, the Lord
+of B-Ball. Anyways, it sicks a Ball Spider on you. Wipe the floor with that
+dumb monster.
+
+Shimmerglobe will fuse with the Hell B-Ball to form the H/S Ball. It's weaker
+than the Hell B-Ball, but it allows Barkley to attack twice in one turn! Give
+it to the baller immediately. We are headed off to Necron 5!
+
+
+==============================================================================
+ BARREN OUTSKIRTS                                                       [0416]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+ NOTE: You can use the Barren Outskirts to reach Cyberdwarf's ship, which will
+       lead to Necron 5, but I think it's best that you tackle the Barren
+       Outskirt's secret boss here before going to Necron 5. If you wish to do
+       so, check out Section 5.3 for more info on this baddie.
+
+The Barren Outskirts is very small, so there isn't much exploring here. Stock
+up at the campfire and save your game, then go south. Pass by the Chup Mines
+and the railroad. Continue south and follow the trail.
+
+Talk to the man here to learn a bit about a World Map (whatever the heck that
+is...) and go south to enter the World Map. Whoah, I've never experienced
+something so trippy in a game before! Like, a shrunken version of the earth!?
+Follow the path to Cyberdwarf's ship and get ready to blast off to Necron 5.
+
+
+==============================================================================
+ NECRON 5                                                               [0417]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+ o-------------------------------o   This is the site for the final battle! Go
+ |      - VENDING MACINE -       |   down the long hallway to encounter
+ o-------------------------------o   Vinceborg again. Instead of battling,
+ | Chicken Fry...............699 |   Barkley finally convinces the android who
+ | BBall Tear................220 |   he really is. Vinceborg finally halts his
+ | Chicken Dew...............179 |   evil mission to kill Hoopz by self-
+ | BBall Juice...............125 |   destructing! What a confused, robotic
+ | Steroids..................100 |   soul. Pick up some items at the vending
+ | Tobacco...................100 |   machine past the rubble. The pump nearby
+ | BBall Shard................90 |   will quiz you on random video game trivia
+ | Ecto Cooler................66 |   before you're able to save. The pump says
+ | Fstone Mvitamin............25 |   you will get something nice for getting
+ | Protein Paste..............23 |   all the answers right, but it is a dirty
+ | Insulin....................20 |   liar. As a result, see how you can do on
+ | Chup.......................15 |   your own with the quiz. I mean, it does
+ | Alcohol....................10 |   not matter if you get any wrong or right.
+ o-------------------------------o
+                                     Save your game and interact with the
+weird portal device next to the vending machine to fully heal. Enter the
+desolate b-ball court past the pump. Something isn't right here, and that is
+is proven when Inspector Jordan arrives on the scene. It's the final showdown
+between these two rival b-ballers!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Michael Jordan
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 11
+
+It's one on one here, so you can only rely on Barkley to defeat Michael Jordan
+in the final showdown. Jordan still has his old attacks such as H-H-Head Shot,
+Hurricane Shot, and Defy Clispaeth. H-H-Head Shot still deals very little
+damage and Defy Clispaeth will raise Jordan's GUARD. Counter this by using
+Ghost Muscle.
+
+After using Ghost Muscle, repeatedly spam Doubleteam throughout the entire
+battle. Heal your VP and BP when needed, of course. Don't worry about the
+other techniques since Doubleteam will deal double damage if you have the H/S
+Ball equipped. If you have equipment such as Shrekmono equipped, Jordan's
+attacks will deal no more than 20 damage. This is a total breeze.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Well, that was anticlimactic. You know what they say: if you can't slam with
+the best, then jam with the rest!! Punk-ass. If you try and leave the b-ball
+court via the northern exit, Cyberdwarf will stop you.
+
+ NOTE: Maybe it's a good time to use that Dimension Whistle Juwanna Mann gave
+       us a while back. It will transport the party to the B-Ball Dimension,
+       an optional area where you can fight some baddies and get some gnarly
+       bling. Check out Section 5.4 for a walkthrough of it.
+
+Whether you left for the B-Ball Dimension or not, continue to the northern end
+of the desolate b-ball court. This is the final pit stop, so I hope you have
+prepared. Before finding the Ultimate B-Ball, the party is stopped by an evil
+doppleganger. Refuse to join your shadowy self to initiate a battle!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Shadow Barkley
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 13
+
+What a massive foe we have in front of us. This monster has many different
+attacks at its disposal. Dark Vortex is a basic attack that can deal around
+200 damage to one character and Shadow Lightning can deal around 100-130
+damage randomly to all characters. On top of that, Plague Needle will inflict
+Diabetes and Glaucoma to the entire party! Cyberdwarf should be your main
+healer, since Shadow Barkley can also use Verbotem Jam to basically kill a
+party member in one hit.
+
+Have Balthios use Muscle Zauber to crapify his stats and make it even worse by
+having Cyberdwarf start off with Chaff Grenade. Like always, Cyberdwarf should
+then be demoted to group healer. Barkley can attack with Doubleteam and
+Baltheos will either use Muscle Zauber over and over or use Thunder Zauber.
+Hoopz's Gun's Slay can do plenty of damage to Shadow Zauber as well. Have your
+party (almost) fully heal when Shadow Barkley has only a sliver of VP, since
+you will need to be prepared for a battle later. Beware though, since Shadow
+Barkley can use Moon Regeneration to heal around 550 VP!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+After Shadow Barkley is defeated, you will be thrown into a boss battle right
+after! This is the final boss!!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: T-Rex Barkley
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 13
+
+Oh dear, this form is very, very tough. T-Rex Barkley is a hard-hitting
+machine, and all of his attacks have the potential of killing a party member
+in one shot. Tail Whip can deal around 160-180 damage... three times to one
+character. Chomp Chomp Yum Yum not only deals around 400 damage, but it also
+heals the t-rex for the same amount of damage dealt! Dinosaur Spit lowers all
+of your stats significantly and Battle Roar will raise T-Rex Barkley's POWER
+but an astounding 28!. Flamehell can also deal up to 300 damage to the entire
+party. On top of all that garbage, Doomfire Death can instantly kill two party
+members! Yes, TWO! Geez!
+
+I'd like to remind you that this is the final battle, so use every single item
+you can. Use up all your Chicken Fries, Chicken Dews, Ecto Coolers, BBall
+Tears, and so on. Cyberdwarf should be the one to use these items along with
+his spells. Everyone else should attack and occasionally heal themselves if
+they really need it.
+
+The key to winning is to be durable as opposed to trying to take out T-Rex
+Barkley quickly. Lower his stats with Muscle Zauber and use Water Zauber to
+give him some nasty status ailments. Barkley can use Ghost Muscle and Hoopz
+should use Gun's Slay. Balthios should actually limit himself to using Muscle
+Zauber nearly every turn to keep T-Rex Barkley in a weakened state. As for
+offensive attacks, Barkley can stick to Doubleteam and Showboat Jam and Hoopz
+should use Gun's Slay and TrickGun Assault every once in a while. This battle
+will take a very long time, but if you use all of your items and keep the
+party healthy, you will come out on top.
+
+Oh yeah, use Golden Potato to basically kill him in one hit. :)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+I would let in some info on the ending of the game, but it's so damn funny
+that I don't want to spoil anything for you. Trust me, you'll enjoy it. There
+better be a Chapter 2, though.
+
+Anyways, I hope you enjoyed this guide. I put a lot of time into it, so I hope
+it was of use. Okay, bye.
+
+
+______________________________________________________________________________
+==============================================================================
+
+[5] SIDEQUESTS                                                          [0500]
+
+==============================================================================
+
+Barkley, Shut Up and Jam has a few optional areas and events you can do, and
+this is the spot where they will be featured. I will state the first time you
+will be able to access each sidequest in the walkthrough, though.
+
+
+==============================================================================
+ DIKEMBE MUTUMBO'S TOMB                                                 [0501]
+==============================================================================
+
+ Enemies: Ball Droid, Dread Ref, Whistle
+   Items: Chicken Dew x2, Femur
+
+------------------------------------------------------------------------------
+
+The tomb of famous b-baller Dikembe Mutumbo is fairly small, so you shouldn't
+have to spend much time here. Fight all the enemies you can here to level up
+and test out Cyberdwarf's odd fighting style. Go north to reach a fork, then
+take a left. The right path is a long tunnel that leads nowhere.
+
+As you go through the long path, the party will be interrupted by a wailing
+noise. Whatever. Continue through, picking up the two Chicken Dews from the
+wall panel right past the statues. Head north to the next area and stick to
+the northern path. The party will hear the strange noise again, but proceed
+through. You will reach the tomb and Dikembe Mutumbo's ghost appears. He is
+not too kind to the party and attacks!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: D. Mutumbo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 4
+
+This guy actually isn't that tough. He looks just like Kobe Bryant and has
+some of the same moves. He is powerful, as Balla Dash can deal around 150
+damage to one party member! Counter that by using Fire Zauber to lower his
+POWER. You can also use Snail Zauber and Water Zauber to slow him down and
+give him random status effects respectively. Demi-Lightning Fists is by far D.
+Mutumbo's most dangerous attack. He can hit for 40-60 damage around six or
+seven times! If anyone survives a hit, pay all attention to healing that
+character.
+
+Vinceborg's Refractor Beam and Kobe's Vampslam are very good attacks to use
+against D. Mutumbo. I had Cyberdwarf focus on healing and keeping everyone in
+tact while everyone else attacked. If Mutumbo uses Devolve to enter a trace,
+use your more powerful attacks, since he will recover loads of VP! This battle
+shouldn't take too long, especially if he doesn't use Devolve.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Once Dikembe Mutumbo's ghost is defeated, you will receive a Femur. Mutumbo
+will also pass down one of his most special techniques to Barkley. As a
+result, Barkley learns Holy Dunk! Leave the tomb and return to Cesspool X.
+Talk to the dog wandering around (the normal one, not the freaks). It will
+begin to talk and trade its Nikes for your Femur. Do so and equip it to a slow
+character to boost their SPEED by 14!
+
+
+==============================================================================
+ CHUP MINES                                                             [0502]
+==============================================================================
+
+ Enemies: None
+   Items: Falcon Johdpurs, Genie Lamp, Mysterious Potion, Shrekmono, Shrekmono
+          Piccie
+
+------------------------------------------------------------------------------
+
+To reach the Chup Mines, go south from the campfire and hang a left at the
+intersection. The Duergars here are being enslaved by evil genies, so we
+should probably go ahead and put a stop to that. Enter the next area and go
+north through the main path. You'll eventually reach a table where the head
+Duergar is negotiating with one of the genies. Agree to mediate for the civil
+rights negotiation. You will be asked several questions, and it is best to
+side with the Duergars. Here are the best choices for each question:
+
+ Q: What is your opinion on sludge elfs?
+ A: Can no more coexist than fire and water.
+
+ Q: How do you feel about the current sewer crisis?
+ A: Pro-sewers.
+
+ Q: What should be the primary diet of all Duergars?
+ A: Dunkaroos.
+
+ Q: Remove the ban on bubbling tinctures and elixers?
+ A: All brews are now legal.
+
+ Q: What should be done about ensorcelled weaponry?
+ A: I love a good enchantment.
+
+ Q: Your stance on Duergars' with patriotic quilts?
+ A: All quilts must be patriotic.
+
+ Q: How many hexes can be placed on each Duergar?
+ A: 0 hexes.
+
+ Q: What is the maximum ratio of gilded chalices to rubies?
+ A: Rubies, rubies, rubies.
+
+ Q: How many caverns is each Duergar allowed to spelunk?
+ A: To each his own...
+
+You probably noticed that all you needed to do was choose the first answer
+every time. With all the questions asked in favor of the Duergars, Barkley
+will be rewarded with a Shrekmono and a Shrekmono Piccie. Equip the Shrekmono
+to either Barkley or Hoopz and return to the entrance of the second cave. Take
+a right now and talk to the Duergar behind the counter. He will reward the
+party with a Mysterious Potion.
+
+You can also decide to be mean and favor the genies in the negotiations. If
+you select the last answer for every question, then you will get a Genie Lamp.
+Talk to the genie near the entrance of the second cave for Falcon Johdpurs.
+Mwahahaha!
+
+If you use the Genie Lamp, you can summon Kazaam. He will grant the party one
+out of three wishes:
+
+ Power     - Party gains +5 VP, BP, POWER, GUARD, BRAIN, and SPEED
+ Wealth    - Gain 5000 Neo-Shekels
+ Knowledge - Gain information about the Deathtemple
+
+It may be morally right to favor the Duergars, but the wish granted by Kazaam
+is pretty sweet. It's up to you.
+
+
+==============================================================================
+ GHASTLY DARKLORD                                                       [0503]
+==============================================================================
+
+ Enemies: Ghastly Darklord
+   Items: Golden Potato
+
+------------------------------------------------------------------------------
+
+Ghastly Darklord is found in the Barren Outskirts, and it is recommended to
+fight he before going to Necron 5 (but after Cuchulainn's Tomb). He is very
+well hidden, so it's easy to accidentally stumble upon this guy if you love to
+search through every nook and cranny of an area.
+
+Go to the southern end of Barren Outskirts near the dealer and the guy that
+talks about the World Map. Go to the right side of the parking lot towards a
+small batch of oil drums. It's in the southeast corner, so walk to the very
+tip of the area towards the drum tucked in the corner. You will hear an evil
+voice as the monster appears.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Ghastly Darklord
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 11
+
+WTF. That character sprite is wack. This guy is a real pain, since Tongue Lash
+alone will inflict every single status effect on one party member. Ghastly
+Darklord also can kill a random party member with Blackout. Mystic Eye Beam of
+Doom is just like Vinceborg's attack; it will deal around 80 damage to random
+targets. Head Bash is your normal everyday physical attack that will deal
+around 100 damage. To top it off, Soul Consume heals him for around 360 VP!
+
+Start off by having Barkley use Ghost Muscle and Baltheos using Muscle Zauber.
+Cyberdwarf can use Chaff Grenade, then resort to healing for the remainder of
+the battle. Hoopz isn't that useful in this fight either, so he can heal and
+occasionally attack. Don't try inflicting Ghastly Darklord with Diabetes or
+Glaucoma, since he is immune to both.
+
+Make sure Barkley has the H/S Ball equipped and have him use Doubleteam. Since
+you can double dribble with two b-balls, the attack deals twice as much as
+normally! Plus, it only consumes 10 BP so you can use it multiple times before
+refilling with a BBall Tear. Baltheos can probably stick to Thunder Zauber
+while he occasionally lowers Ghastly Darklord's stats. If you make sure to
+heal every turn with Cyberdwarf or Hoopz, then you should be good to go.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+That's it for the secret boss! You will obtain a Golden Potato after the
+fight. This magical item will summon Hiratio, which can instantly kill any
+enemy in the game! Use this item wisely though.
+
+
+==============================================================================
+ B-BALL DIMENSION                                                       [0504]
+==============================================================================
+
+ Enemies: None
+   Items: Ivory's Bromide, Mithril Jersey, Tupperware Armor
+
+------------------------------------------------------------------------------
+
+This is a one-time place, so talk to Carmelo Anthony (standing next to the
+pump) if you want to go back. Remember; if you do, you won't be able to come
+back here. There are several neat little events that you can participate here
+in the B-Ball Dimension.
+
+Talk to the various tourists standing outside of the buildings here. One of
+them is the legendary Dick Vitale. Again, if you wish to go to the Deathtemple
+by being an evil son of a gun, don't give Dick Vitale any Neo-Shekels.
+
+
+--- DATING SERVICE -----------------------------------------------------------
+
+The Dating Service is to the right of the arena, so head inside. Cyberdwarf is
+the only one willing to go through the dating service, so it's up to him to
+score a hottie. That hottie happens to be Ivory Latta from the WNBA. Answer
+the following questions to win the date:
+
+ "That's a pretty name, Ivory"
+ "What are some of your interests?"
+ "What books do you like?"
+ "I also read romance novels"
+ "I think you doubt yourself"
+ "I don't think so"
+ "That... that was amazing"
+ "It's... beautiful"
+ "What do you usually think about?"
+
+If you answer all of those, Cyberdwarf will get a smooch as well as Tupperware
+Armor and Ivory's Bromide. Give the Tupperware Armor to Cyberdwarf.
+
+
+--- B-BALL RANCH -------------------------------------------------------------
+
+Totally useless, but funny as hell. You can raise your own pet b-ball by
+feeding it, watering it, and even training it. Each food product costs money,
+so it's not really worth it. It's a cute take on monster training, but you
+can't get anything out of raising a pet b-ball.
+
+
+--- B-BALL TOURNAMENT --------------------------------------------------------
+
+You can participate in a tournament to find the best fighter. It's right next
+to the pump, so enter and register behind the front desk. It is time to
+dethrone Kevin Garnett! Register and speak with the champ, then get ready to
+do battle in the B-Ball Tournament!
+
+The first contestant is Hell Orc. One hit should kill him. Your second
+opponent is Doomhell Skele. Again, he is ridiculously easy. The same goes for
+the third opponent: the Blood Ghoul. After defeating three enemies, you will
+fight the Delmon Master. He is a bit tougher than the other contestants, but
+still fairly simple. Once defeating the four pathetic monsters, you will face
+off with the reigning champ: Kevin Garnett!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Kevin Garnett
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 12
+
+It is a one on one fight between Charles Barkley and Kevin Garnett. You really
+need to watch our for Dipsy Doo Dunkaroo, which can deal damage and lower your
+GUARD by 25! Dojo Kick can deal around 210 damage if your GUARD has been
+lowered and 3-Point can also take a nice chunk out of your BP. Still, you and
+your H/S Ball can probably tear him apart with normal attacks. Just stick to
+Forward Jumpers and Free Throws to take him out. Yawn.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+After becoming the new champion, Barkley receives the Mithril Jersey! Give it
+to either Barkley or Hoopz (whomever isn't wearing the Shrekmono) to boost
+their GUARD greatly.
+
+That's it to the B-Ball Dimension, so you can now talk to Carmelo Anthony to
+return to Necro 5. Don't forget to save before doing so.
+
+
+==============================================================================
+ DEATHTEMPLE                                                            [0505]
+==============================================================================
+
+ Enemies: None
+   Items: None
+
+------------------------------------------------------------------------------
+
+To access Deathtemple, you must be the most evil, corrupt, and despicable
+person possible. You have four options throughout the game where you can make
+a good or bad descision. You must make all four bad decisions to be able to
+access the Deathtemple. Afterwards, simply die/get a game over and instead of
+going to the main menu, you will reach Deathtemple. Here are the four options
+that factor whether or not you can make it here.
+
+ 1. Neo New York City - don't give the small child in front of the church any
+    Neo-Shekels.
+
+ 2. Neo New York City Sewers - don't give the bum outside of Dr. Allard's
+    office any Neo-Shekels.
+
+ 3. Proto Neo New York - don ot apologize to Wildman, who lives in the house
+    next to Juwanna Mann.
+
+ 4. B-Ball Dimension - do not give Dick Vitale any Neo-Shekels.
+
+If you do all four of these and then die or get a game over, Barkley will
+arrive in Deathtemple. There is nothing really valuable or important here, but
+you can talk to the game creaters who are represented by NPCs. Walk around and
+talk to everyone to learn about all wacky info. If you want to get the hell
+(lol puns) out of here, talk to the giant face at the north end of Deathtemple
+to revert to the main menu. Nothing important here, but it's funny.
+
+
+______________________________________________________________________________
+==============================================================================
+
+[6] BOSSES                                                              [0600]
+
+==============================================================================
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Dread Ref
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 2
+
+This boss is very easy and doesn't have too much health. Technical Foul can
+Foul one of your party members, and Knife Boot Face Gash can deal a lot of
+damage. Fortunately, many of the hits have a high chance of missing. You can
+use your various skills, but they aren't necessarily needed. Most powerful
+physical attacks, such as Barkley's Forward Jumper and Hellbane's Zauber Slash
+is enough to put him away after enough hits. Remember that you can use Ecto
+Coolers to refill your VP.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: BBall Monster
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 3
+
+The BBall Monster is certainly tougher than the Dread Ref from before. His
+attacks are very strong, especially against Baltheos. His Ball Punch can deal
+around 95 damage to Baltheos! His Juke Spinner attack can hit several times
+between both party members, dealiing around 20 damage a pop. BBall Twister is
+another strong attack that deals around 50 damage in one hit.
+
+The key to winning is to guard and lower the BBall Monster's POWER. Use
+Baltheos's Flame Zauber has the ability to lower its POWER, so use the attack
+when you get a chance. The monster can use Brace Onself, which will raise its
+POWER, so definitely use Flame Zauber if it uses the ability. Once it is
+weakened, unleash your greatest attacks, such as Ice Zauber and Barkley's
+Showboat Jam. Maintain your VP and occasionally guard to lower the chance of
+getting pummeled by the BBall Monster. Not too tough of a fight when powerful
+attacks can deal 100-200 damage.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Michael Jordan, Vinceborg 2050
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 5
+
+Michael Jordan is fairly weak, so do everything in your power to take him out
+first. His Hurricane Shot can deal multiple shots to various party members and
+H-H-Head Shot can cut a nice chunk out of one party member's VP. If you have
+Holy Dunk, use it on Jordan to deal around 250 damage. Use Baltheos's Thunder
+Zauber and Cyberdwarf's physical attacks to take out Jordan in hopefully one
+or two rounds. He isn't much of a threat, but get him out of the way first.
+
+Once Michael Jordan is down for the count, it's just you and Vinceborg. Use
+Cyberdwarf to restore Barkley and Baltheos's BP and leave those two to the
+attacking. Like you know, Vince's Eye Laser attack can really hurt. Refractor
+Beam is equally as bad, but luckily those are his only two offensive attacks.
+He does have Recharge, which heals around 240 VP. Like always, lower his POWER
+with Flame Zauber and commence with the beatdown. This battle isn't exactly
+hard, but take note that Vinceborg has a lot of VP.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Dr Allard
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 6
+
+The doctor has very high GUARD, so dealing loads of damage to him can be hard.
+His attacks are very deadly, such as Heart Stab (it can deal around 200-250
+damage to one character). Dirty Needles is fairly weak, but can target many
+characters at once. Faulty Plague Vaccine is probably Dr. Allard's most lethal
+attack. He can hit one party member three times, each dealing around 100
+damage. That's not all; with every hit, he will inflict a status effect.
+
+Assign one character to heal non-stop. I don't know why, but my Balthios blew
+in this fight, so I assigned him with the healing role. Have Hoopz use
+Accurate Shot, because his skills are very weak. Cyberdwarf should use any of
+his physical attacks (I'm a fan of Jab) and Barkley can use Forward Jumper. I
+suggest spending the first turn or two lowering the doc's POWER and SPEED with
+Fire and Snail Zauber, respectively, then let Baltheos heal for the rest of
+the fight. It's not very hard, but it may take a little while.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Ghost Dad
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 6
+
+Oh God, the character sprite for Ghost Dad is LOL-worthy. However, he is the
+toughest boss you have faced yet. His Fog Breath can lower the entire party's
+SPEED in one shot. Spook can deal around 100 damage and inflicts Glaucoma on
+the target. Ghostly Curse is even worse, since it inflicts random status
+effects on the entire party. Use Dwarf Caress if this attack ever comes up.
+Ectoplasm is a straight-up powerful attack, which can deal around 300 damage
+to one character. Watch out for Ghost Muscle, which will raise Ghost Dad's
+POWER significantly. Use Fire Zauber on Baltheos's next turn and whip out the
+Ecto Coolers for this fight.
+
+Even with Hoopz's new weapon, he should stick to the group healer because he
+is still very weak. If the entire party is perfectly fine, then have him use
+TrickGun Assault. It is a surprisingly powerful attack. Have Cyberdwarf attack
+occasionally, but have him use Dwarf Caress and Glaucoma Prayer if the other
+party members are hit with status effects. Baltheos should use Fire Zauber and
+Muscle Zauber at the start of the battle, then resort to Zauber Slash.
+
+Barkley has a wide range of powerful attacks. Holy Dunk can deal over 300
+damage in one shot, but it drains your entire BP bar. So instead of using Holy
+Dunk and then refilling all his BP, it may be better to use a handful of
+weaker attacks such as Vampslam and Doubleteam. Remember to stock up on some
+Ecto Coolers and BBall Shards if you happen to lose the battle. It'll take a
+very long time (much longer than the other bosses) and you may die once or
+twice, but hang in there and you should eventually win.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Scott Creelman
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 7
+
+The only attack you should watch out for is Kamikaze Jam, since it can
+basically kill someone in one hit (not literally, but it deals around 540
+damage). Make sure to use Chicken Dews and Steroids when needed. Otherwise,
+his techniques aren't that dangerous. Low Blow is very weak and Illusion Shot
+can deal around 65 damage to multiple targets. You should be able to deal a
+load of damage with skills such as Vampslam, Thunder Zauber, and TrickGun
+Assault.
+
+After losing a lot of health, Scott Creelman will restort to dirty tactics.
+Glory of BBall will restore around 550-570 HP and cure the CEO of all status
+ailments. He'll also start to use BBall Bash, which can deal around 80 damage
+to one target THREE times. Remember, Steroids and Chicken Dew. Have Cyberdwarf
+use Dwarf Caress and make sure to deal as much damage as possible with the
+rest of the party to take him out before he can heal.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Duergar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 8
+
+So it's just Barkley and Cyberdwarf. Great. Gold Encrusted Pick Toss hits four
+times, each dealing around 85 damage per hit. Gemstorm also hits all party
+members for around 200 damage, so it's a real doozy. Level 2 Melf's Acid Arrow
+not only inflicts around 220 damage, but also inflicts Diabetes on its
+intended target. As you can see, Duergar is very powerful, and having only two
+party members makes this battle a lot harder than normal bouts.
+
+It may seem kooky, but have Cyberdwarf heal every turn while Barkley sticks to
+attacking the Duergar. You will probably need to heal every turn, so have
+Cyberdwarf use Dwarf Caress and various items to cure himself and Barkley.
+Have Barkley power up with Ghost Muscle, then use Vampslam and Showboat Jam.
+Have Cyberdwarf restore any lost BP with BBall Shards when needed. Normally a
+battle like this would be cake, but having only two party members certainly
+doesn't help.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Reginald
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 8
+
+Well, the mystery man is really Rutherford! Wait, no, it's Raffleson! Or was
+it Richards? Argh, he likes to be referred to as Reginald! Okay, enough with
+his many names. Reginald has many different attacks, and most of them suck.
+Like, they suck for us, because they are powerful. He can summon a Bee Swarm
+which can deal around 75-100 damage three or four times. Greater Earth Spire
+can deal around 300 damage to an ally and Chromatic Orb Level 119 can inflict
+multiple status effects and deal around 100 damage to its target.
+
+You can only damage Reginald when the red force field surrounding his body
+disappears. Until then, your attacks will deal very little damage. When he has
+it up, just heal. As a result, this battle can take a while if you have to sit
+around and wait for his shield to fall. He can make matters worse when he eats
+a sandwich, which can restore 999 of his BP! If no one needs healing, then use
+Cyberdwarf's physical attacks such as Suplex and Toss to lower Reginald's
+stats. It's an annoying battle, but use your most powerful skills of all three
+party members when the shield is down to hopefully end this one quickly.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Diabeasty
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 9
+
+It seems obvious that the Diabeasty is easily capable of inflicting us with
+Diabeates. Well, thats's what Sugar Storm is for. The attack inflicts Diabetes
+on the entire party. It can also use Glomp to deal around 200 damage to a solo
+target. Grasp of Glucos deals around 120 damage three times to a character.
+Watch out for Spontaneous Sugarification, which is a one-hit KO on any one
+party member. Revive him immediately and keep on goin'.
+
+Use Fire Zauber and/or Muscle Zauber at the start of the battle and start your
+heavy hitting on the Diabeasty. Cyberdwarf should stick to healing the party
+and occasionally using his physical attacks. Try out Chaff Grenade to lower
+the Diabeasty's GUARD. Barkley should use Holy Jam and Vampslam when he gets
+the chance, and Thunder Zauber is definitely Baltheos's best offensive attack.
+The battle isn't very hard, but you will most likely be using a lot of items
+to revive party members and refill BP.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Vinceborg 2050
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 10
+
+Hopefully you managed to heal between the two bosses, because you'll need all
+the BP and VP you can get (well duh). Vinceborg still has some of his old
+attacks like Laser, but he has upgraded a bit too. He now can use Proximity
+pass to deal around 140 damage to two characters. He can also use Binary
+Shower to boost random stats of his. Like the previous battle, Vinceborg can
+heal, but now he can heal 400 VP and 400 BP!
+
+You should still be able to take him down rather easily. If you are lucky,
+Vinceborg won't heal that much (if at all) during the fight, so use your most
+powerful skills. Use Muscle Zauber and Chaff Grenade to lower his stats, then
+use Barkley's Ghost Muscle to boost your own. From there on, have Cyberdwarf
+heal while Barkley uses Showboat Jam and Baltheos uses Thunder Zauber. Once
+Vinceborg is near death, resort to Zauber Slash and Forward Jumper to save
+your BP-replenishing items. The fight may range on lengh depending if
+Vinceborg decides to repeatedly heal.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Michael Jordan
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 11
+
+It's one on one here, so you can only rely on Barkley to defeat Michael Jordan
+in the final showdown. Jordan still has his old attacks such as H-H-Head Shot,
+Hurricane Shot, and Defy Clispaeth. H-H-Head Shot still deals very little
+damage and Defy Clispaeth will raise Jordan's GUARD. Counter this by using
+Ghost Muscle.
+
+After using Ghost Muscle, repeatedly spam Doubleteam throughout the entire
+battle. Heal your VP and BP when needed, of course. Don't worry about the
+other techniques since Doubleteam will deal double damage if you have the H/S
+Ball equipped. If you have equipment such as Shrekmono equipped, Jordan's
+attacks will deal no more than 20 damage. This is a total breeze.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Shadow Barkley
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 13
+
+What a massive foe we have in front of us. This monster has many different
+attacks at its disposal. Dark Vortex is a basic attack that can deal around
+200 damage to one character and Shadow Lightning can deal around 100-130
+damage randomly to all characters. On top of that, Plague Needle will inflict
+Diabetes and Glaucoma to the entire party! Cyberdwarf should be your main
+healer, since Shadow Barkley can also use Verbotem Jam to basically kill a
+party member in one hit.
+
+Have Balthios use Muscle Zauber to crapify his stats and make it even worse by
+having Cyberdwarf start off with Chaff Grenade. Like always, Cyberdwarf should
+then be demoted to group healer. Barkley can attack with Doubleteam and
+Baltheos will either use Muscle Zauber over and over or use Thunder Zauber.
+Hoopz's Gun's Slay can do plenty of damage to Shadow Zauber as well. Have your
+party (almost) fully heal when Shadow Barkley has only a sliver of VP, since
+you will need to be prepared for a battle later. Beware though, since Shadow
+Barkley can use Moon Regeneration to heal around 550 VP!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: T-Rex Barkley
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 13
+
+Oh dear, this form is very, very tough. T-Rex Barkley is a hard-hitting
+machine, and all of his attacks have the potential of killing a party member
+in one shot. Tail Whip can deal around 160-180 damage... three times to one
+character. Chomp Chomp Yum Yum not only deals around 400 damage, but it also
+heals the t-rex for the same amount of damage dealt! Dinosaur Spit lowers all
+of your stats significantly and Battle Roar will raise T-Rex Barkley's POWER
+but an astounding 28!. Flamehell can also deal up to 300 damage to the entire
+party. On top of all that garbage, Doomfire Death can instantly kill two party
+members! Yes, TWO! Geez!
+
+I'd like to remind you that this is the final battle, so use every single item
+you can. Use up all your Chicken Fries, Chicken Dews, Ecto Coolers, BBall
+Tears, and so on. Cyberdwarf should be the one to use these items along with
+his spells. Everyone else should attack and occasionally heal themselves if
+they really need it.
+
+The key to winning is to be durable as opposed to trying to take out T-Rex
+Barkley quickly. Lower his stats with Muscle Zauber and use Water Zauber to
+give him some nasty status ailments. Barkley can use Ghost Muscle and Hoopz
+should use Gun's Slay. Balthios should actually limit himself to using Muscle
+Zauber nearly every turn to keep T-Rex Barkley in a weakened state. As for
+offensive attacks, Barkley can stick to Doubleteam and Showboat Jam and Hoopz
+should use Gun's Slay and TrickGun Assault every once in a while. This battle
+will take a very long time, but if you use all of your items and keep the
+party healthy, you will come out on top.
+
+Oh yeah, use Golden Potato to basically kill him in one hit. :)
+
+
+ NOTE: The following bosses are found in secret areas in the game and are
+       entirely optional. For more info, check out Section 5.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: D. Mutumbo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 4
+
+This guy actually isn't that tough. He looks just like Kobe Bryant and has
+some of the same moves. He is powerful, as Balla Dash can deal around 150
+damage to one party member! Counter that by using Fire Zauber to lower his
+POWER. You can also use Snail Zauber and Water Zauber to slow him down and
+give him random status effects respectively. Demi-Lightning Fists is by far D.
+Mutumbo's most dangerous attack. He can hit for 40-60 damage around six or
+seven times! If anyone survives a hit, pay all attention to healing that
+character.
+
+Vinceborg's Refractor Beam and Kobe's Vampslam are very good attacks to use
+against D. Mutumbo. I had Cyberdwarf focus on healing and keeping everyone in
+tact while everyone else attacked. If Mutumbo uses Devolve to enter a trace,
+use your more powerful attacks, since he will recover loads of VP! This battle
+shouldn't take too long, especially if he doesn't use Devolve.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Ghastly Darklord
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 11
+
+WTF. That character sprite is wack. This guy is a real pain, since Tongue Lash
+alone will inflict every single status effect on one party member. Ghastly
+Darklord also can kill a random party member with Blackout. Mystic Eye Beam of
+Doom is just like Vinceborg's attack; it will deal around 80 damage to random
+targets. Head Bash is your normal everyday physical attack that will deal
+around 100 damage. To top it off, Soul Consume heals him for around 360 VP!
+
+Start off by having Barkley use Ghost Muscle and Baltheos using Muscle Zauber.
+Cyberdwarf can use Chaff Grenade, then resort to healing for the remainder of
+the battle. Hoopz isn't that useful in this fight either, so he can heal and
+occasionally attack. Don't try inflicting Ghastly Darklord with Diabetes or
+Glaucoma, since he is immune to both.
+
+Make sure Barkley has the H/S Ball equipped and have him use Doubleteam. Since
+you can double dribble with two b-balls, the attack deals twice as much as
+normally! Plus, it only consumes 10 BP so you can use it multiple times before
+refilling with a BBall Tear. Baltheos can probably stick to Thunder Zauber
+while he occasionally lowers Ghastly Darklord's stats. If you make sure to
+heal every turn with Cyberdwarf or Hoopz, then you should be good to go.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ BOSS: Kevin Garnett
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Recommended Level: 12
+
+It is a one on one fight between Charles Barkley and Kevin Garnett. You really
+need to watch our for Dipsy Doo Dunkaroo, which can deal damage and lower your
+GUARD by 25! Dojo Kick can deal around 210 damage if your GUARD has been
+lowered and 3-Point can also take a nice chunk out of your BP. Still, you and
+your H/S Ball can probably tear him apart with normal attacks. Just stick to
+Forward Jumpers and Free Throws to take him out. Yawn.
+
+
+______________________________________________________________________________
+==============================================================================
+
+[7] EQUIPMENT                                                           [0700]
+
+==============================================================================
+
+==============================================================================
+ WEAPONS                                                                [0701]
+==============================================================================
+
+--- SOCCERBALL ---------------------------------------------------------------
+
+ POW +0
+
+
+--- FIRE ZAUBER --------------------------------------------------------------
+
+ POW +0
+
+
+--- RUSTY MUSCLE -------------------------------------------------------------
+
+ POW +0
+
+
+--- ZX ZAUBERTECH1 -----------------------------------------------------------
+
+ POW +0
+
+
+--- VOLLEYBALL ---------------------------------------------------------------
+
+ POWER +8
+
+
+--- ICE ZAUBER ---------------------------------------------------------------
+
+ POWER +8
+
+
+--- ZX ZAUBERTECHZ -----------------------------------------------------------
+
+ POWER +10
+
+
+--- DWARF PRIDE --------------------------------------------------------------
+
+ POWER +15
+
+
+--- THUNDER ZAUBER -----------------------------------------------------------
+
+ POWER +20
+
+
+--- MITHRIL'BRASTER ----------------------------------------------------------
+
+ POWER +20
+
+
+--- B-BALL -------------------------------------------------------------------
+
+ POWER +26
+
+
+--- BATTLESTECH GUN ----------------------------------------------------------
+
+ POWER +30
+
+
+--- TIME ZAUBER --------------------------------------------------------------
+
+ POWER +32
+
+
+--- DWARF WARHAMMER ----------------------------------------------------------
+
+ POWER +33
+
+
+--- ZX MODELX571X ------------------------------------------------------------
+
+ POWER +36
+
+
+--- SPIKED B-BALL ------------------------------------------------------------
+
+ POWER +38
+
+
+--- DWARFBANE ----------------------------------------------------------------
+
+ POWER +43
+
+
+--- HELL ZAUBER --------------------------------------------------------------
+
+ POWER +44
+ BRAIN +3
+
+
+--- SNAIL ZAUBER -------------------------------------------------------------
+
+ POWER +48
+ GUARD +20
+ BRAIN +4
+
+
+--- MYSTIC B-BALL ------------------------------------------------------------
+
+ POWER +54
+
+
+--- BLOODY ZAUBER ------------------------------------------------------------
+
+ POWER +60
+ BRAIN +3
+
+
+--- DWARFSTEAR ---------------------------------------------------------------
+
+ POWER +63
+ GUARD +10
+
+
+--- EGYPTIAN GUN -------------------------------------------------------------
+
+ POWER +70
+
+
+--- F.I.N.A.L. G.U.N. --------------------------------------------------------
+
+ POWER +72
+ SPEED +5
+ BRAIN +10
+
+
+--- DWARFTEAR ----------------------------------------------------------------
+
+ POWER +88
+ GUARD +5
+
+
+--- H/S BALL -----------------------------------------------------------------
+
+ POWER +80
+
+
+--- HELL B-BALL --------------------------------------------------------------
+
+ POWER +90
+
+
+==============================================================================
+ ARMOR                                                                  [0702]
+==============================================================================
+
+--- ROBE ---------------------------------------------------------------------
+
+ GUARD +2
+
+
+--- RAGS ---------------------------------------------------------------------
+
+ GUARD +3
+
+
+--- JACKET -------------------------------------------------------------------
+
+ GUARD +5
+
+
+--- JERSEY -------------------------------------------------------------------
+
+ GUARD +9
+
+
+--- REFEREE UNIFORM ----------------------------------------------------------
+
+ GUARD +14
+
+
+--- CYBER-TUNIC --------------------------------------------------------------
+
+ GUARD +16
+
+
+--- TRENCHCOAT ---------------------------------------------------------------
+
+ GUARD +17
+
+
+--- ULTIMATE WRISTBAND -------------------------------------------------------
+
+ GUARD +19
+
+
+--- ZAUBERMANCER GARB --------------------------------------------------------
+
+ GUARD +24
+
+
+--- MITHRIL JERSEY -----------------------------------------------------------
+
+ GUARD +26
+
+
+--- TEK-SKELETON -------------------------------------------------------------
+
+ GUARD +31
+
+
+--- FALCON JOHDPURS ----------------------------------------------------------
+
+ GUARD +34
+
+
+--- SHREKMONO ----------------------------------------------------------------
+
+ GUARD +36
+
+
+--- TUPPERWARE ARMOR ---------------------------------------------------------
+
+ GUARD +45
+
+
+==============================================================================
+ BLING                                                                  [0703]
+==============================================================================
+
+--- ACE BANDAGE --------------------------------------------------------------
+
+ GUARD +7
+
+
+--- ATHLETIC SUPPORTER -------------------------------------------------------
+
+ GUARD +32
+
+
+--- BAPES --------------------------------------------------------------------
+
+ SPEED +2
+
+
+--- BACKWARDS CAP ------------------------------------------------------------
+
+ GUARD +3
+
+
+--- CYBER GAUNTLET -----------------------------------------------------------
+
+ POWER +19
+
+
+--- FACEMASK -----------------------------------------------------------------
+
+ GUARD +20
+
+
+--- GOGGLES ------------------------------------------------------------------
+
+ BRAIN +14
+
+
+--- MAREEN'S RING ------------------------------------------------------------
+
+ SPEED +1
+
+
+--- NIKES --------------------------------------------------------------------
+
+ SPEED +14
+
+
+--- PUMPS --------------------------------------------------------------------
+
+ SPEED +8
+
+
+--- SUNGLASSES ---------------------------------------------------------------
+
+ BRAIN +2
+
+
+--- SWEATBAND ----------------------------------------------------------------
+
+ BRAIN +6
+
+
+--- WRIST BRACE --------------------------------------------------------------
+
+ POWER +6
+
+
+______________________________________________________________________________
+==============================================================================
+
+[8] ITEMS                                                               [0800]
+
+==============================================================================
+
+
+--- ALCOHOL ------------------------------------------------------------------
+
+ Cures Aspergers
+
+
+--- BBALL JUICE --------------------------------------------------------------
+
+ Heals VP by 99%
+
+
+--- BBALL SHARD --------------------------------------------------------------
+
+ Heals VP by 50%
+
+
+--- BBALL TEAR ---------------------------------------------------------------
+
+ Heals BP by 100%
+
+
+--- CHICKEN DEW --------------------------------------------------------------
+
+ Revives character with 100% VP
+
+
+--- CHICKEN FRY --------------------------------------------------------------
+
+ Revives character with 100% VP and BP
+
+
+--- CHUP ---------------------------------------------------------------------
+
+ Cures Glaucoma
+
+
+--- ECTO COOLER --------------------------------------------------------------
+
+ Heals VP by 66%
+
+
+--- ECTO COOLER? -------------------------------------------------------------
+
+ Heals VP and BP by 20%
+
+
+--- FSTONE MVITAMIN ----------------------------------------------------------
+
+ Cures Parkinsons
+
+
+--- GATORADE GUM -------------------------------------------------------------
+
+ Permanently raises VP by 25
+
+
+--- GENIE LAMP ---------------------------------------------------------------
+
+ Shaped less like a lamp and more like a boom box...
+
+
+--- GOLDEN POTATO ------------------------------------------------------------
+
+ Summons a legendary potato in battle...
+
+
+--- GUN'S STICKER ------------------------------------------------------------
+
+ I Love Gun's Sticker. Labeled 1 of 1 in crayon
+
+
+--- INSULIN ------------------------------------------------------------------
+
+ Cures Diabetes
+
+
+--- IVORY'S BROMIDE ----------------------------------------------------------
+
+ A bromide of Ivory Latta
+
+
+--- MYSTERIOUS POTION --------------------------------------------------------
+
+ Permanantly raises VP by 50
+
+
+--- PROTEIN PASTE ------------------------------------------------------------
+
+ Heals VP by 33%
+
+
+--- RAGS ---------------------------------------------------------------------
+
+ Heals VP by 66%
+
+
+--- SHREKMONO PICCIE ---------------------------------------------------------
+
+ A photograph of the legendary kimono
+
+
+--- STEROID ------------------------------------------------------------------
+
+ Revives character with 50% VP
+
+
+--- TOBACCO ------------------------------------------------------------------
+
+ Cures all status effects
+
+
+--- TURKEY FEATHER -----------------------------------------------------------
+
+ Zalatar's precious turkey feather
+
+
+______________________________________________________________________________
+==============================================================================
+
+[9] THANKS/CREDITS                                                      [0900]
+
+==============================================================================
+
+Of course, this guide couldn't have been made without some extra help. Here is
+a shoutout to everyone who made this FAQ possible:
+
+ CJayC: For being an awesome host of an awesome site.
+
+ Eternal Czar Smapdi: For being the best co-author anyone could have, and for
+                     being yourself.
+
+ Shotgunnova: Your FAQ for the game is great, and it definitely helped me out
+              in some sticky situations. Good job on it man.
+
+ FESBians: Because you're cool.
+
+ You: For reading this FAQ.
+
+------------------------------------------------------------------------------
+ LEGAL
+------------------------------------------------------------------------------
+
+This document is copyright (c) DomZ Ninja 2008-2013.
+
+This document may be found on the following sites:
+
+ * GameFAQs     - http://www.gamefaqs.com
+ * GameSpot     - http://www.gamespot.com
+ * IGN          - http://faqs.ign.com
+ * Super Cheats - http://www.supercheats.com
+ * Neoseeker    - http://www.neoseeker.com
+ * HonestGamers - http://www.honestgamers.com
+
+The latest update of this document can always be found on GameFAQs.
+
+Other sites may use this document, but only with my permission. If you see
+this document on a website not listed above, please email me. Do not edit or
+alter this document in any way. Do not steal anything from this document. Do
+not host or distribute this document for profit. That is plagiarism, and it is
+against the law.
+
+If you have any questions, comments, or anything that you would like to add to
+this guide, then feel free to email me. My email address is found at the top
+of this guide. However, if you do email me, please include the name of the
+game in the title. Lastly, thanks for reading and using this FAQ. If you like
+this FAQ, then please recommend it to others by clicking the "recommend"
+button at the top of the guide. :]
+
+ http://www.gamefaqs.com/features/recognition/52173.html
+
+
+"If everything could ever feel this real forever, if anything could ever feel
+this good again"
+- Foo Fighters
+______________________________________________________________________________
+                                                               END OF DOCUMENT
+
+

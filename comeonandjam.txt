@@ -1,0 +1,1559 @@
+
+
+ | |        __              /¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ | |_____  ()() __         /    _____|¯¯|__  __ ___/¯¯|_   __ __ _____ |¯| \
+ | (¯|XXX|  ¯¯\/..) ______/    /  ___)  |  \|  |  \   __) |  |  \   _ \| |  \
+ | | |XXX|    _\o/_¯¯¯¯¯¯¯\    \___ \|   ,  \  |  /|  |   |  |  /  |_) ) |   \
+ | | |XXX|    |)(| \       \  /____  )___|  /____/ |__|   |____/|   __/|_|    )
+ | |  ¯¯¯     |32|  \       \      \/     \/         (and jam!) |__|   (_)   /
+ | |          |__|           \                                              /
+ | |           ( \            \ FAQ/WALKTHROUGH by Shot "Downtown" Gunnova /
+ | |            \ \¯)          \__________________________________________/
+ | |           /¯) ¯
+ | |            ¯     Document can't be reproduced unless Barkley/me says so.
+_|_|___________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                                             TABLE OF CONTENTS
+
+  I. CONTROLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . CNTR
+ II. TH' BASICS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . THBS
+
+     Battling............................................................ BTLN
+     Stats............................................................... STTS
+     Abnormalities....................................................... ABNR
+     Main Characters..................................................... CHRC
+
+III. WALKTHROUGH  . . . . . . . . . . . . . . . . . . . . . . . . . . . . WLKT
+
+ 01) Barkley's Apartment................................................. WK01
+ 02) Neo New York........................................................ WK02
+ 03) B-Ball Catacombs.................................................... WK03
+ 04) Neo New York Sewers / Cesspool X.................................... WK04
+ 05) Dikembe Mutumbo's Tomb....................................[OPTIONAL] WK05
+ 06) Neo New York / Sewers............................................... WK06
+ 07) Proto Neo New York.................................................. WK07
+ 08) Spalding Factory.................................................... WK08
+ 09) Underground Railroad / Liberty Island Ferry......................... WK09
+ 10) Liberty Island...................................................... WK10
+ 11) Barren Outskirts.................................................... WK11
+ 12) Chup Mines................................................[OPTIONAL] WK12
+ 13) Cuchulainn's Tomb................................................... WK13
+ 14) Necron 5............................................................ WK14
+ 15) B-Ball Dimension..........................................[OPTIONAL] WK15
+ 16) Necron 5............................................................ WK16
+
+ 17) Appendices.......................................................... APND
+ 18) Frequently Asked Questions.......................................... FAQZ
+ 19) Updates & Thanks.................................................... UPDT
+ 20) Legality............................................................ LGLT
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+I. CONTROLS                                                              [CNTR]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ [Z] = Action button
+ [X] = Cancel button
+ [C] = Start button (brings up menu)
+
+ Arrow keys control Barkley, and sprinting is possible by holding the cancel
+ button while moving. Don't like this default setup? Change it in the Config
+ tab on the main menu.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+II. TH' BASICS                                                           [THBS]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+BATTLING                 [BTLN]
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Any RPGer who's played an SNES game can sightread these controls, but for
+ those a little uninitiated, battling is simple.
+
+ - Enemies appear on the map, i.e. there are no random encounters
+ - Battling is Speed-based; this determines the turns for both foes/allies
+ - Targets can be selected with the arrow pad
+ - The current ally whose turn it is has certain abilities that require either
+   a button to be pressed, held and released, or used in conjunction with the
+   arrow pads (such as Barkley's Fadeaway Jumper).
+
+ Enemies simply use their skills. There is a command menu for each character
+ that looks like this:
+
+           |¯¯¯¯¯¯¯|            Each character has differing skills and a
+           | SPECL |            special option. For the latter, Hoopz can
+           |       |            evade the next attack in full whenever that
+  |¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|    occurs, while Cyberdwarf can take damage for
+  | SKILLS | ATTCK | ITEMS |    his allies with a 33% damage reduction. Items,
+  |________|_______|_______|    Attack, and Flee options appear on everyone's
+           |       |            starting grid and have same functionality.
+           | FLEE? |
+           |_______|
+
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+STATS                    [STTS]
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Just a short overview on what stats control what. The status menu can be
+ shown by pressing the Cancel button.
+  _______ ___________________________________________________________________
+ | STAT  | EFFECT                                                            |
+ |¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+ | VP    | The "health points" of the team; cannot fight if at 0             |
+ | BP    | The "magic points" of the team; cannot use skills if at 0         |
+ | Power | Attack strength. The higher it is, the more physical damage!      |
+ | Guard | Defense ability. The higher it is, the less physical damage taken |
+ | Brain | The higher it is, the more dmg skills do/less magic damage taken? |
+ | Speed | The higher is is, the more turns the ally gets                    |
+ |_______|___________________________________________________________________|
+
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ABNORMALITIES            [ABNR]
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Many enemies have status abnormalities to inflict on the ballers. These are
+ very real threats, in the game and out of it. ^___~
+  _____________________ ___________________________________ _________________
+ | STATUS              | EFFECT...                         | ITEM ALLEVIATE: |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+ | Aspergers           | Character flails around stupidly  | Alcohol         |
+ | Diabetes            | Character loses VP every turn     | Insulin         |
+ | Fouled              | Character skips next turn         | --------------- |
+ | Glaucoma            | Character's accuracy diminished   | Chup            |
+ | Handicap            | Character's Brain halved 3 turns  | --------------- |
+ | Montezuma's Revenge | Character's Guard halved 3 turns  | --------------- |
+ | Parkinsons          | Character's Power halved          | Fstone Mvitamin |
+ | Stroke              | Character paralyzed for 3 turns   | --------------- |
+ | Timeout             | Character's speed halved 3 turns  | --------------- |
+ |_____________________|___________________________________|_________________|
+
+ * "Tobacco" will alleviate any and all of these symptoms.
+
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MAIN CHARACTERS          [CHRC]       --- SLIGHT SPOILERS BELOW ---
+_______________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    NOTE: "LV??" means requirement needed!
+
+ CHARLES BARKLEY
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Sir Charles...The Round Mound of Rebound...he's been called many things, and
+ revered by many...but those days are past. It's slowly revealed why his post-
+ -apocalyptic life is bitter and why the future is so empty and bleak. He's
+ pretty well-rounded and has a high Attack stat.
+
+ LV00 - Doubleteam -------> Multi-attack phys damage on one target [10BP]
+ LV02 - Showboat Jam -----> Gain random stat bonus; damages target [20BP]
+ LV04 - Vampslam ---------> Damages enemy, healing Barkley by amnt [10BP]
+ LV?? - Holy Jam ---------> Dikembe Mutumbo's forbidden jam......! [35BP]
+ LV?? - Ghost Muscle -----> Raises Barkley's Power and Brain stats [05BP]
+
+BALTHIOS
+¯¯¯¯¯¯¯¯
+ The octaroon great grandson of the famous b-baller Lebron James, Balthios is
+ one of the last living zaubermancers. He, Charles, and Hoopz are close, and
+ he is very bright. His gray hair is freaky but no one really mentions this
+ fact. His Guard stat sucks for quite a long time despite equipment-boosting,
+ but this changes later. His stat-down skills are great.
+
+ LV00 - Fire Zauber ------> Lowers enemy's Attack [5BP]
+ LV00 - Ice Zauber -------> Heavy damage to enemy [20BP]
+ LV03 - Water Zauber -----> Inflicts Diabetes & Glaucoma on enemies [10BP]
+ LV03 - Wind Zauber ------> 2-hit damage on all enemies [25BP]
+ LV04 - Thunder Zauber ---> Damages one foe repeatedly [25BP]
+ LV05 - Muscle Zauber ----> Lowers multiple stats on single enemy [20BP]
+ LV?? - Snail Zauber -----> May heavily decrease speed on one foe [10BP]
+
+CYBERDWARF
+¯¯¯¯¯¯¯¯¯¯
+ Once a proud dwarf, after an accident he had no choice but to get skin grafts
+ made of b-ball leather. Mostly hideous but still kind-hearted, he agrees to
+ help Barkley on his quest. Oh, and he likes applebottoms.
+
+ LV00 - Insulin Shot -----> Heals + immunizes target of Diabetes [05BP]
+ LV00 - Dwarven Touch ----> Raises random stat + Heals ally VP 50% [10BP]
+ LV00 - Dwarf Knowledge --> Fully heals ally's VP, refreshes status [15BP]
+ LV05 - Glaucoma Prayer --> Heals Glaucoma on all allies [05BP]
+ LV06 - Dwarf Caress -----> Restores 66% of max VP on all allies [20BP]
+ LV?? - Chaff Grenade ----> Phys damage to enemy + Lowers Guard  [10BP]
+
+HOOPZ
+¯¯¯¯¯
+ Son of Sir Charles, and a b-ball up-and-comer, Hoopz is how all good kids
+ should act: respect their parents, not be blabbermouths, and be helpful. The
+ young master has little VP in battle but is very fast, which makes up for
+ it. Did I mention he's....A ZOMBIE? No? Good, because he's not.
+
+ LV00 - Gun's Slay -------> Physical damage on enemy [10BP]
+ LV00 - Bulletdance ------> Physical damage on enemies [10BP]
+ LV10 - Status Shot ------> Inflicts Diabetes on enemy [10BP]
+ LV06 - TrickGun Assault -> Heavy phys-damg to enemy [30BP]
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+01) BARKLEY'S APARTMENT                                                  [WK01]
+_______________________________________________________________________________
+¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ |  _              |  After what may be the most dramatic acting in video game
+ | |_| Ecto Cooler |  history, the scene is set for Barkley to go out and get
+ |_________________|  his medicine. Search the oven for a [ECTO COOLER] and
+                      put on your overcoat (figuratively) to leave. Talk with
+ Gus in the foyer to learn the harrowing past about Inspector Jordan.
+
+ And for no real reason, here's the default everything!
+
+ ARM  : Soccerball             VP   : 380         GUARD: 33         $$$: 250
+ BODY : Rags                   BP   : 30          BRAIN: 30
+ BLING: Maureen's Ring         SPEED: 30          POWER: 70
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+02) NEO NEW YORK                                                         [WK02]
+_______________________________________________________________________________
+¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ |  _              | The weird creature outside the complex is a gas pump who,
+ | |_| Ecto Cooler | after some funny game rhetoric, will save the game for
+ | |_| Ecto Cooler | Barkley.
+ | |_| Ecto Cooler |
+ | |_| Ecto Cooler | Head into the next screen and enter the store near the
+ | |_| Ecto Cooler | woman dressed in black. Talk with Chin to get some meds:
+ | |_| Steroid     | five [ECTO COOLER]s, three [STEROID]s, and two [TOBACCO]
+ | |_| Steroid     | doses!
+ | |_| Steroid     |
+ | |_| Tobacco     | Back outside, head south into the alley to find some
+ | |_| Tobacco     | street dealers and punks who will sell equipment/items.
+ |_________________|       __________________ _______ _______ _______ _______
+                          | BLING            | POWER | GUARD | SPEED | BRAIN |
+ The merchandise y'wanna  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|
+ get is the Volleyball &  | Bapes            |       |       |  + 02 |       |
+ Jersey. Maureen's Ring's | Backwards Cap    |       |  + 03 |       |       |
+ easily outclassed here,  | Jersey           |       |  + 09 |       |       |
+ so find some other piece | Sunglasses       |       |       |       |  + 02 |
+ of bling to equip. I'd   | Volleyball       |  + 08 |       |       |       |
+ recommend either the W.  | Wrist Brace      |  + 06 |       |       |       |
+ Brace or Backwards Cap,  |__________________|_______|_______|_______|_______|
+ myself...
+
+ Down the (left) block is the Church of Clispaeth. The priest here is...Larry
+ Bird, ex-star of the Boston Celtics. But those days're past now... Reminisce
+ for awhile, give the kid standing outside the church 1 neo-shekel, and head
+ back towards the apartment. Save first and head on up. [NOTE: If you do not
+ give the kid a neo-shekel, it adds a "Deathtemple Point" to an invisible
+ counter.]
+
+ After a quick snooze, Jordan will enter and arrest Sir Charles for allegedly
+ causing the latest Chaos Dunk. In order to escape their clutches, press the
+ combination of keys/direction to get out of the apartment. Once on the foyer,
+ quickly press the next one to avoid falling off the balcony and being caught.
+ Barkley is captured after failing the input twice; don't worry, this can be
+ redone from the start should this happen! There's a similar scenario on the
+ NNY street involving the arrow keys.
+
+ In the downtown area, some soldiers will catch Charles. A kid will run over
+ and steal a "vintage" weapon from the captain, allowing Charles to escape a
+ bit easier into the side-alley. A shadowy figure will subsequently help
+ Charles escape...
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+03) B-BALL CATACOMBS                                                     [WK03]
+_______________________________________________________________________________
+¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| ENEMIES ¯¯¯¯¯¯¯|¯
+ |  _                      _                                |                |
+ | |_| Battlers Tome 1    |_| Jacket                        | - Slam Spectre |
+ | |_| Battlers Tome 2    |_| Chicken Dew                   | - Ball Brain   |
+ | |_| Battlers Tome 3    |_| Chicken Dew                   | - Zomballer    |
+ | |_| BBall Shard        |_| Volleyball                    |________________|
+ | |_| BBall Tear         |_| Jersey        _               |
+ | |_| BBall Tear         |_| Bapes        |_| Gatorade Gum |
+ | |_| BBall Tear         |_| Ecto Cooler  |_| B-Ball       |
+ | |_| BBall Tear         |_| Ecto Cooler                   |
+ |__________________________________________________________|
+
+  The person will reveal himself as the Ultimate Hellbane, and joins the party
+  after convincing Charles that he's a good guy. His default stuff:
+_______________________________________________________
+                                                       | [BATTLERS TOME 1],
+ ARM  : Fire Zauber       VP   : 290         GUARD: 22 | [BATTLERS TOME 2], n'
+ BODY : Robe              BP   : 40          BRAIN: 55 | [BATTLERS TOME 3]'ll
+ BLING: Sunglasses        SPEED: 40          POWER: 32 | appear in the items'
+_______________________________________________________| list at this point.
+
+ (NOTE: I kinda got the item order mixed up. Sorry!)
+                                                            To Sewers
+           |¯|                                                   \
+         |¯| |¯|                                                _|¯|_
+         |_   _|                           BOSS: BBall Monster |     | Lebron
+           | |                                                \| END |/ James'
+           | |                                                 |_17 _|  Tomb
+           | |                                                   | |
+    _______|¯|_______                                            |¯|_
+  _|S _____   _____  |_ _|¯|_ _|¯|_|¯|_|¯|__________ __________ _|  S|-Vending
+ |123|_____| |_____|  _|_   _|__   _       _________|__   9   _|_ 14_| Machine
+  ¯|_________________|   |_|    |_| |_|¯|_|            |_|¯|_|   |_|
+      ___                | |                           | | | |    |
+     |456|_______________| |                          _| | | |_   |
+     |____________   ______|                         |16 | | 10|  |
+      __          | |                                |___| | 11|  |
+     |78|_________| |                                       ¯¯¯   |
+     |  ____________|                                             |
+     |_|                                                          |
+    _| |         .------------------------------------------------'
+   |   |         |             _____________________ _________________________
+   | |¯          |            |                     |                         |
+   |  ¯|        |¯|__         | 01 - Battle Tome 1  | 10 - Chicken Dew        |
+  _| |¯  Healer |__  |-BOSS:  | 02 - Battle Tome 2  | 11 - Chicken Dew        |
+ |_  |   B-Ball  __| | Dread  | 03 - Battle Tome 3  | 12 - Volleyball         |
+  _| |_     \   |15__|   Ref  | 04 - BBall Shard    | 13 - Jersey             |
+ |12 13|_ _|¯|__| |           | 05 - BBall Tear     | 14 - Bapes              |
+ |      _|________|           | 06 - BBall Tear     | 15 - Ecto Cooler [x3]   |
+ |_____|                      | 07 - BBall Tear     | 16 - Gatorade Gum       |
+                              | 08 - BBall Tear     | 17 - B-Ball             |
+                              | 09 - Jacket         |                         |
+                              |_____________________|_________________________|
+
+ Save at the mouthy gas pump and continue east, ignoring the northern exit.
+ At the 4-way junction, head south and continue straight west until finding an
+ altar where a replica of the Space Jam ball is enshrined, along with the tomb
+ of Muggsy Bogues and Patrick Ewing. Inspect the altar for a [BBALL SHARD] and
+ both sarcophagi for a [BBALL TEAR]. R.I.P. you guys. ;__;
+
+ Exit south until Hellbane warns about unstable footing. Walk (don't run) over
+ the mesh floor to avoid a long fall to yer death. Continue along to the pool
+ that commemorates greats like Shaq and Hakeem, and grab the [JACKET] and the
+ [VOLLEYBALL] out of the odd-looking wall compartments. Continue along to find
+ a healing b-ball statue. Further along is a...boss! OMG
+
+ BOSS: Dread Ref   HP: ~300  EXP: 104   NS: 90
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ This boss is actually quite easy, as long as y'healed beforehand. Use Forward
+ Jumper [or any other easy-to-use high-damage skill] and Hellbane's best skill
+ to deal a lot of damage from the get-go. The "Knife Boot Face Gash" skill can
+ inflict much pain on its target and it hits multiple times (but misses a lot
+ of the strikes). Should you be rather unlucky, however, get those Ecto Cooler
+ straws out and drink up!
+
+ ---
+
+ Heal up again and continue north to a screen with another save. A vending
+ machine is nearby if you need to buy items, and there are some new stuff to
+ get as well! Steal the [BAPES] from the wall hole and hang a left after y'
+ save. A wall hole here has a [JACKET] -- which should be put on Hellbane at
+ once -- and two southward-leading tunnels. Go down the left one to find a...
+ TILE SHIFTING PUZZLE? OH MY GOD I HATE THESE! However, if you can succeed at
+ doing it (all but upper-left corner must be correct), a [GATORADE GUM]'s put
+ in your inventory! GZ, one of the creators, has supplied the tile solution!:
+
+ R > R > D > L > L > D > R > R > U > U > L > L
+
+ Obviously, the letters stand for Right, Down, Left, and Up... I hope...
+ The right-hand tunnel parallel to the tile puzzle contains a [CHICKEN DEW]
+ duo, so make sure to snatch those puppies up!
+
+ Finally, return to the vending machine area and go north to Lebron James'
+ tomb. Before fading, he beseeches them to find the "Cyberdwarf," whatever
+ that is. Another boss fight!
+
+ BOSS: BBall Monster   HP: ~1000  EXP: 584   NS: 230
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ It's "BBall Twister" attack does medium-damage (~60), and it can't be hit if
+ it uses "Mega Jump". If this happens, have Barkley defend for his 66% guard
+ bonus and have Balthios pick his counterattack command, so he can avenge the
+ ~150-dmg strike and cut this freak down to size. Barkley should use his Jam
+ abilities (and then Forward Jumper, etc.), while Balthios takes care of the
+ fiend with Fire/Ice Zauber, which should help reduce the amount of dmg he'll
+ incur from its powerful physical attacks. "Juke Spinner" has 9 random hits
+ to the party, and can be annoying if Monster's power hasn't been decreased!
+
+ A [B-BALL] is collected after the foe's defeat. End of dungeon!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+04) NEO NEW YORK SEWERS / CESSPOOL X                                     [WK04]
+_______________________________________________________________________________
+¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| ENEMIES ¯¯¯¯¯¯¯|¯
+ |  _                      _                                |                |
+ | |_| Ice Zauber         |_| Chicken Dew                   | Whistle        |
+ | |_| Poem               |_| Snail Zauber                  | Ball Droid     |
+ |__________________________________________________________| Ball Spider    |
+          ___                      |                        |________________|
+         | 2 |    To Cesspool X    |
+         |_  |         /  [3,4]    |  Grab the [ICE ZAUBER] chest and head
+          _|¯|     ___|¯|          |  north to the vending machine/savepoint
+         |  _|    |  ___|          |  reststop. Examine the freaky cyborg to
+         | |_|¯| _| |_             |  learn it's Vince Carter, rebuilt from
+         |  ___||_   _|            |  B-Ballnacht and slightly memory-less!
+         | |______| |              |
+         |          |              |  He will join the party at Lv3 (or maybe
+         | |¯¯¯¯¯¯¯¯               |  that's just the average). Vinceborg's
+         |¯|_                      |  Eye Laser ability is very powerful, and
+         |  V|   1 - Ice Zauber    |  that goes double for his Refractor Beam,
+         |  S|   2 - Chicken Dew   |  so be sure to pick the occassions to use
+         | |¯    3 - Poem          |  them.
+         | |_    4 - Snail Zauber  |
+         |  1|   S - Savepoint     |  Beware the power-down effects of the
+         |_|¯    V - Vending Mach. |  droids. Use Eye Laser to get rid of them
+___________________________________|  all in one turn!
+                                    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| Anyway, continue north
+ ARM  : Volleyball        VP   : 560         GUARD: 45 | at the bifurcation
+ BODY : Jersey            BP   : 36          BRAIN: 24 | until it comes to a
+ BLING: Bapes             SPEED: 39          POWER: 78 | small room at the top
+_______________________________________________________| of a ladder.
+
+ Snatch the [CHICKEN DEW] and return to the fork, taking an easy trek. At the
+ very end, the entrance to Cesspool X, where some freakish mutants (by choice)
+ live.
+
+__________
+¯¯¯¯¯¯¯¯¯¯
+CESSPOOL X
+__________
+¯¯¯¯¯¯¯¯¯¯
+
+ After gaining entrance past "Eric Barber" the Vulturefreak, talk with the
+ snail to gain the [POEM] for his kitsune lover. After opening it, all allies
+ present determine the poem completely sucks, and the option to rewrite it is
+ given -- choose to do so. Talk with the kitsune (fox) -- AFTER SAVING -- to
+ learn about her likes and dislikes. She likes...animals, and that's about all
+ the useful information y'get.
+
+ Balthios will rewrite the crappy prose and will need some input. If you want
+ a smashing success of a poem, answer:
+
+ - enjoys hunting small prey
+ - does not mind animal feces much
+ - and her friends in Cesspool X
+
+ The default reward if you don't rewrite the poem is 600 NS; if she hates the
+ poem, it's 400 NS. If you pick all of Vince's stupid suggestions, where he's
+ surprisingly CORRECT even though there's no flow, the two lovebirds leave and
+ leave behind a [SNAIL ZAUBER]. This is a skill for Balthios, true, but there
+ is a weapon of the same name left behind! Equip it for a great Guard boost!
+
+ As for new items, the following can be bought. Everyone should have a nice
+ time upgrading here, particularly Balthios and Vincebot who get slammed in
+ battle defense-wise. [Armor shop is located near where Kitsune was standing].
+ The item shop is the northeastern most shop in town, and the 'norm' inn is
+ by the NPC Chip.
+
+  __________________ _______ _______ _______ _______
+ | BLING            | POWER | GUARD | SPEED | BRAIN |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯| Vince and Barkley should
+ | Ace Bandage      |       |  + 07 |       |       | get Spiked B-Balls and
+ | Sweatband        |       |       |       |  + 06 | a Ref Uniform, while our
+ | Dwarf Pride      |  + 15 |       |       |       | Hellbane gets a Trench-
+ | Thunder Zauber   |  + 20 |       |       |       | coat and Time Zauber.
+ | Time Zauber      |  + 32 |       |       |       | The Dwarf Warhammer will
+ | Spiked B-Ball    |  + 38 |       |       |       | be bought very soon, and
+ | Referee Uniform  |  + 14 |       |       |       | makes Cyberdwarf's combo
+ | Trenchcoat       |  + 17 |       |       |       | attacks feel like a
+ | Dwarf Warhammer  |  + 33 |       |       |       | thousand-ton truck is
+ |__________________|_______|_______|_______|_______| running over enemies...!
+
+ Cyberdwarf lives in the house next to the save pump. He'll join that party
+ after some scenes, and it'll be time to get Hoopz back.
+_______________________________________________________
+                                                       | There is a small
+ ARM  : Rusty Muscle      VP   : 585         GUARD: 68 | optional dungeon in
+ BODY : Cyber-Tunic       BP   : 39          BRAIN: 32 | the back of Cyber-
+ BLING: Sweatband         SPEED: 32          POWER: 59 | dwarf's house, where
+_______________________________________________________| Dikembe Mutumbo has
+                                                         been laid to rest. I
+ highly suggest doing this as it nets a great item in return. Skip the section
+ if you just wanna get on with the game.
+
+ ---
+
+ Once y'head north of Cesspool X, hang a left to find a ladder leading up to
+ the church. Simple as.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+05) DIKEMBE MUTUMBO'S TOMB                                               [WK05]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+      |¯¯¯¯¯|      This is a mini-dungeon that leads up to the b-baller's
+      |BOSS!|      shrine. You can completely ignore the right path of Pippin's
+      |_ 2 _|      sarcophagus; it's a maze that leads nowhere.
+        | |
+   _____|¯|____    Instead, take a left and navigate to where Dikembe's
+  |            |   entrails are stored. A wall niche contains a [CHICKEN DEW]
+  |_|¯¯¯¯¯¯¯¯|_|   duo. Continuing along, keep going north until y'find the
+  | |  _           beautiful reflecting pool and statues that guard Mutumbo's
+  | |_|1|_         final resting place.
+  |_      |
+    |¯¯¯| |        After Barkley admits he was jealous of the guy, some echoes
+    | |___|_|¯|_ ________________    ring out (BOOMSHAKALAKA is what Bill
+    |_____|_   _|_   ______   ___|   Walton would always say in the video game
+            | |   | |      | |_______  NBA Jam by the way, if you're wondering
+      START-|_|   | |____  |__   ____| why that was constantly repeated) and
+ _                |_   __|    |_|      the ghost of Dikembe attacks the party!
+|_| Chicken Dew x2  | |___________|¯|__
+|_| Femur           |__________________|
+
+
+ BOSS: D. Mutumbo   HP: ~1600  EXP: 004   NS: 025
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Hey, he looks like Kobe Bryant! Haha...  He's basically the same fighter, but
+ with souped-up power. Balla Dash is still present, so if you want an easier
+ time, use Snail Zauber (Speed -12!?) & Fire Zauber to debuff him. Barkley can
+ use his jamz and slamz while Eye Laser and the punch/kick combos round out
+ the other turns. Also watch out for the "beatdown" attack where Dikembe puts
+ some merciless hurt on a single target w/ a multistrike tech. He can recover
+ about 600 HP after a time, by using "Devolve" however (which prevents him
+ from attacking for a while), so this may take longer than normal.
+
+ ---
+
+ A [FEMUR] is received after winning. Barkley will also learn "Holy Dunk" as
+ a way to carry on the soul brother's legacy. But what do we do with this
+ bone? Back in Cesspool X, the dog will speak OOC (out of character) and trade
+ his [NIKES] for the morsel. With +14 SPD, this will greatly help slowpokes
+ like Cyberdwarf in battle, yo.
+
+ Exit north of Cesspool X to re-enter the sewers.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+06) NEO NEW YORK / SEWERS                                                [WK06]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯
+                                                        |  _                 |
+ Enter the church and there will be a surprise battle!  | |_| Turkey Feather |
+                                                        | |_| Facemask       |
+                                                        | |_| Chicken Dew    |
+ BOSS: Michael Jordan   HP: ~850                        |____________________|
+ BOSS: Vinceborg 2050   HP: ~2000  EXP: 1653  NS: 466
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Use Snail/Fire Zauber at the start to give a slight edge. Jordan can "Defy
+ Clispaeth" to raise his guard somewhat, but his HP isn't that high, so it's
+ a wasted turn, pretty much. Vinceborg, expectedly, has a laser shot that can
+ do multiple damage to everyone (Jordan has Hurricane Shot which works to the
+ same effect). Our cyborg can also use "Recharge" to heal 239 damage, though,
+ so watch out.
+
+ ---
+
+ Afterwards, Cyberdwarf suggests finding clues in the old Spalding Building.
+_______________________________________________________
+                                                       | Hoopz joins the team
+ ARM  : ZX Zaubertech1    VP   : 308         GUARD: 45 | at this time, too.
+ BODY : Rags              BP   : 28          BRAIN: 42 | A Referee Uniform &
+ BLING: Bapes             SPEED: 73          POWER: 64 | Ace Bandage will do
+_______________________________________________________| the kid good.
+
+ After stocking up on items, try to exit town and a [TURKEY FEATHER] present
+ will be given by one of the freaky denizens. Save, head north, hang a right.
+
+ ---
+
+ This next area is sorta confusing, but it's just one screen. A [FACEMASK]
+ chest is at the top of the screen (from entrance: west to 1st north path).
+ Put it on Balthios so his Guard stat isn't a complete pile. In the SW corner
+ of the room is a ladder leading up to a [CHICKEN DEW]. A note from Allard is
+ on the floor; y'may wanna read it... In the SE corner, the ladder leads down
+ to some pushers who y'can get items (already available) from. A guy charges
+ $5000 to go down a ladder here...if you can't afford it, it doesn't matter.
+ The real way to find the Spalding Building is through the DOOR in the above
+ room, which leads to more ladders. It spits everyone out near a save pump &
+ vendor, and from there...
+
+ ...huh, it's a clinic? Lame. Talk with the suits here to learn that Dr. Allard
+ does "full conversions" for idiots who want to look like animals and animated
+ goofballs. There are three options to do here:
+
+ #1 - Pay toll
+
+      If you're stupid, this is the path you take. Why spend $5000 when you
+      don't have to? I mean, c'mon... >__>
+
+ #2 - Rough up the guards
+
+      "Bust into his office" and fight the two guards; it's the exact same way
+      as the #3 path after that. Alternately, you can go to the guards at the
+      barred gate and beat up that Bodyguard. The single guard downstairs is a
+      bit harder apparently, so inflict Diabetes to make up for the times when
+      attacks miss.
+
+ #3 - Find Rufus
+
+      First, y'must have read the note in the SW corner to learn about "Rufus".
+      Talk to a suit in front of Allard's office door to learn Rufus has been
+      put on tunnel duty. Anyway, Rufus is the suit in the downstairs tunnel
+      right outside the savepoint. Return to the office guards, speak Rufus's
+      password, and enter inside. The bodyguard will attack (HP: ~600), but he
+      ain't nothin' special. [650 EXP, 4NS]. The doc is up next.
+
+      BOSS: Dr Allard   HP: ~1200  EXP: 2719  NS: 472
+      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+      His "Faulty Plague Vaccine" can inflict brain-down, Handicapable, and
+      apx 130 damage. "Heart Stab" inflicts heavy damage on one target, while
+      "Dirty Needles" is a pretty crappy multi-attack on everyone. Use Forward
+      Jumper, Fire [etc.] Zauber, and Dwarf's punches to inflict the most dmg
+      on this scoundrel.
+
+ No matter which way is taken, y'have to enter the SE ladder downstairs. Our
+ friend Balthios says to prepare before going; this is because once y'go down
+ there isn't an easy way back. PREPARE FIRST! [The input for falling down is
+ always "Up" multiple times.]
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+07) PROTO NEO NEW YORK                                                   [WK07]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ After meeting Juwanna Mann, she suggests finding the hunter nearby who is an
+ expert on killing monsters... To get to the Spalding Building, the Ghost Dad
+ must be slain! Next door to her house is Wildman's, and if Barkley does not
+ apologize, it adds a "Deathtemple Point".
+
+ Hang a left to find the downtown area, where a savepoint is. A husk of a
+ building contains an inn (35NS) and the other has some denizens. One asks
+ Barkley to retreive a 'F.I.N.A.L. G.U.N.' inside the Spalding Building for
+ him. If you want to make some cash, you can roll the "Bones" with a gambler
+ bum in this building. The rules are easy (each player rolls, highest combined
+ total wins, same number doubles total) but the guy doesn't have any cash, so
+ it's a waste of time... =/  DO NOT PLAY HIM AND RESET, OR HE WILL TAKE ALL OF
+ YOUR MONEY AND AUTO-SAVE THE FILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! <whew>
+
+  ____________________ _______   A gun afficianado here has a huge stockpile
+ | ITEMS              | POWER |  of handcannons and zaubertechs for Hoopz,
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|  the best of which is the ZX ModelX571X. If
+ | ZX Zaubertech1     |  + 00 |  you paid the toll to enter Proto NNY, then
+ | ZX Zaubertech2     |  + 10 |  it probably won't be available...told y'not
+ | Mithril'braster    |  + 20 |  to!
+ | Battlestech Gun    |  + 30 |
+ | ZX ModelX571X      |  + 36 |  Other than that, the Ultimate Wristband is
+ | Ultimate Wristband |  + 19 |  prime buyin' for everyone. Sell old worthless
+ |____________________|_______|  crap if you need to afford 'em. :p
+
+ To continue with the game, look at the bulletin board near Ramirez. "Ghost
+ Dad" [Rank E] is the only option available. Accept and talk with Juwanna Mann
+ to find the monster (automatically).
+
+ BOSS: Ghost Dad   HP: ~3000  EXP: 3923  NS: 468
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Oh no, Dr. Huxtable is raining terror on the city! Its "Ectoplasm" attack is
+ quite powerful (~300dmg), so kick out the powerful jams (Holy Dunk for one)
+ to counteract it. Have Hoopz act as item healer, and use Muscle Zauber to
+ counterattact its +15 ATK raise it gets on occasion. "Spook" can inflict some
+ damage and Glaucoma, so use Glaucoma Prayer/Tobacco to alleviate. Fog Breath
+ can inflict speed-down on everyone, too, which is not a good situation to be
+ in! Dwarf Caress is there for a reason -- use it. This will be a long battle
+ no matter how y'play, so have ample items to get through this sucker. Perhaps
+ the worst move is "Ghostly Curse," which randomly inflicts multiple statuses
+ on each character.
+
+ ---
+
+ The fog lifts after Ghost Dad's demise. Afterward, sleep at the inn for no
+ cost and Barkley will learn "Ghost Muscle" from the dearly departed! Exit
+ west out of town and follow the wastegrounds' path to the Spalding Building.
+ A suit outside will also want Barkley to claim the F.I.N.A.L. G.U.N. for his
+ company Square-Enix-Goya, and will pay $2500 if the obligation is met.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+08) SPALDING FACTORY                                                     [WK08]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  _____                ENEMIES:                    ____
+ |  3  |                                          |  6 |   01 Dwarfbane
+  ¯| |¯                  - Mutant Baller          |_|¯¯    02 BBall Juice
+ |¯|¯|¯|                 - Slam Phantom           | |¯¯|   03 Red Keycard
+ |     |      BOSS       - Mech Gatorade          |    |   04 Time Zauber
+ |¯   ¯|  ___  /                                  | |  |   05 F.I.N.A.L. G.U.N.
+ | | |2| /   \/                                   | |¯¯|   06 Blue Keycard
+ |¯| |¯|(  8  )                                   |    |   07 Green Key
+ |    _| \   /                                    | |  |   08 Prototype B-Ball
+ |¯| |1|  |¯|    |¯¯¯¯|¯¯¯¯|¯¯¯¯|¯¯¯¯|            | |¯¯|
+ |     |  |7|    |   4|    |    |    |  _|¯¯¯¯|_ _|   5|
+ |¯| |¯|  | |    |¯  ¯¯¯  ¯¯¯  ¯¯¯  ¯¯¯|        |___|__|
+ |_   _|  | |    | |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯
+   |¯|____|¯|____|¯|         _                   _
+   |______   ______|        |_| Dwarfbane       |_| F.I.N.A.L. G.U.N.
+          | |               |_| BBall Juice     |_| Blue Keycard
+         _| |_              |_| Red Keycard     |_| Green Key
+        |LIFTS|             |_| Time Zauber     |_| Prototype B-Ball
+        |SAVE |
+         ¯|_|¯
+
+ The first room contains some inactive lifts, a savepoint, and a vendor. At
+ the fork, the only way to proceed is up the left door. Barkley suggests going
+ through the cubicles to search for the keycard. Look for wastebaskets with a
+ sparkly thing to find a [DWARFBANE] and [BBALL JUICE] item. The last room has
+ a [RED KEYCARD] in plain site, luckily. Steal it, return to the savepoint,
+ and active the red lift -- this opens the right-hand door up the hall.
+
+ More cubicles! A [TIME ZAUBER] is in the first one's wastebasket, although it
+ can't hold a candle to the Snail Zauber. Keep going east, watch the scene
+ where Barkley "feels like something happened in a room," and enter the next
+ verticle passage of cubicles. The sparkle-less wastebasket in this first area
+ has the [F.I.N.A.L. G.U.N.] that the two collectors were looking for. Hoopz
+ will be a murdering tool with this equipped, so do so. At the very northern
+ room here is the [BLUE KEYCARD]. Return to the lifts and activate the blue
+ lift, opening the middle door up the hall.
+  ___________________________________________________________________________
+ |                                                                           |
+ | At this point, you can get your reward for the FINAL GUN. If you give the |
+ | thing to Mark in town, he trades it for a [GUN'S STICKER] which is stupid |
+ | to do (as far as I know). If you try to give it to the S-E-G suit, try n' |
+ | extort an extra $2500 out of him. You'll fight him, a Bodyguard, but get  |
+ | both the cash and the F.I.N.A.L. G.U.N.! This is the best outcome here... |
+ |___________________________________________________________________________|
+
+ If you're hurting from the fights, go back to town and get some free rest.
+ Up the hall, talk with Leonard to get the [GREEN KEY]. Further on...
+
+ BOSS: Scott Creelman   HP: ~1200  EXP: 3923  NS: 468
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ "Low Blow" does wussy damage to a single target, but "Kamikaze Jam" is liable
+ to kill the person it hits. Make sure to have some Steroids/Chicken Dew on-
+ hand. "Illusion Shot" is random-target, multiattack damage (~60per). Use
+ Barkley's best jams, Flame Zauber, Rapid Fire, and Cyberdwarf's punches to
+ inflict most damage. Make sure Dwarf Caress can be used if needed, though.
+ "Glory of BBall" will heal all Scott's status ailments and about 571 HP, too,
+ which can needlessly prolong the battle...watch out. [You may want to inflict
+ Diabetes/Glaucoma with Water Zauber on this end].
+
+ ---
+
+ The [PROTOTYPE B-BALL] is received for the hard work. Some things go awry,
+ though, and back in town, it's time to continue (Hoopz isn't in the party
+ for awhile). Exit south through the once-fog-ridden path to the Sunbaked
+ Parking Lot. The "diabetes cult" lives on Liberty Island, accessible by the
+ ferry or underground railroad.
+
+  __________________ _______ _______ _______ _______  Buy a Mystic B-Ball for
+ | WEAPONS          | POWER | GUARD | SPEED | BRAIN | Charles, a Dwarfstear
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯| and Tek-Skeleton for
+ | Battlestech Gun  |  + 30 |       |       |       | Cyberdwarf, and a nifty
+ | Mystic B-Ball    |  + 54 |       |       |       | Athletic Supporter for
+ | Dwarfstear       |  + 63 |  + 10 |       |       | Barkley (optional but
+ | Athletic Supporter       |  + 32 |       |       | will still be worth it).
+ | Tek-Skeleton     |       |  + 31 |       |       |
+ | Goggles          |       |       |       |  + 14 | The other stuff ain't
+ |__________________|_______|_______|_______|_______| that useful for now...
+
+ Grab an [ULTIMATE WRISTBAND] at the SW corner of the parking lot, if you're
+ strapped for cash. I'll describe both ways to get to the ferry...
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+09) UNDERGROUND RAILROAD / LIBERTY ISLAND FERRY                          [WK09]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+PATH: Liberty Island Ferry
+__________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Exit east of the sunbaked parking lot to find the ferry. It's free to ride;
+ just tell the captain. For no real reason, a boss shows up from belowdecks
+ and it's time to fight. Balthios won't be participating, however.
+
+ BOSS: Duergar   HP: ~1200  EXP: 3923  NS: 468
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ "Lv2 Melf's Acid Arrow" can inflict Diabetes & damage, so make sure to use
+ Insulin Shot to prevent it from happening again. "Gemstorm" can inflict 'bout
+ 200 to all allies, but as long as you use Dwarf Caress every 2-3 turns, it's
+ nothing to worry about. "Gold Encrusted Pick Toss" follows a similar strat,
+ but misses and does randomized-target damage. Barkley should stick with Ghost
+ Muscle and Pass/Forward Jumper (after using his Jams, natch), while Cyber
+ should be the main healer. Keep an eye on his BP so y'don't get caught 'tween
+ a rock and a hard place.
+
+ ---
+
+ After, it's learned Balthios has a certain weird thing about Columbus Day.
+ Haha...
+
+__________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+PATH: Underground Railroad
+__________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ The subway terminal is north of the sunbaked parking lot. Tell Harriet Tubman
+ yer getting on for a ride and the trip is underway. After awhile, check the
+ rear cars for a bugbear...but it's really the B-Ball Removal Department in an
+ infiltration mission! It's another timed input series:
+
+ - Cancel -> Action
+ - Up -----> Left
+ - Up -----> Down ---> Up
+
+ The sergeant will activate a bomb before dying, however. To escape the blast
+ the end car needs to be uncoupled from the rest of the train. Cyberdwarf says
+ the rightmost lever is the correct one to detach. When asked if the lever is
+ correct, see if Cyberdwarf is standing all the way to the right; if so, give
+ the go-ahead to pull it.
+
+ And...that's it!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+10) LIBERTY ISLAND                                                       [WK10]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ This next part is reminiscent of point-and-click adventures. Do thusly:
+
+ - Take [TRIANGLE ROCK] from the NE part of the rubble (has a sparkle on it)
+ - Visit Statue of Liberty in the north; try unsuccessfully to gain entrance
+ - In rubble area, NW house will be accessible
+
+ A man here named Rutherford says Yelmirb can cure the diabetes. The Palladium
+ Orb Scepter is needed to gain access to his quarters, however. The cave south
+ of the rubble, blocked by a boulder, contains that very item. Some fool named
+ Jenkins is protecting it...
+
+ - Take Pipe (unsuccessfully)
+ - Ask Rutherford if the [PIPE] can be taken
+ - Use Pipe & Triangle Rock on the boulder
+
+ This allows entrance into Jenkins' cave. He says that Rutherford is trying to
+ kill Yelmirb and he'll give the [ORB SCEPTER] over if Barkley slams him. Say
+ y'will and return to "Raffleson's" house. Everyone will accidentally be
+ trapped in there, but the poison sugar gas mechanism stalls.
+
+ - Examine the dresser and take a [ZAUBERMANCER GARB].
+ - Examine clock to see time is 12:32
+ - Examine work table and take [SCREWDRIVER]
+ - Use desk (jimmies the lock) and get a [DESK KEY]
+ - Examine bookcase to see that three books (#1-3) can't be removed
+ - Pull books in this order: 1, 2, 3, 2. This opens a hidden bookshelf door.
+ - Use Desk Key on the secret door.
+
+ Everyone should be able to leave at this point.
+
+ - Examine Cultist (Mack) at Statue of Liberty to learn some information
+ - Talk with Mack about Das Fructose Ungeheuer by the stone slab (rubble area)
+
+ Mack says the well has the entrance to where the Immaculate Rod lies. The
+ going-away present of [750 NEO-SHEKELS] is also given! The [SUGAR COUNTER]
+ will keep track of the sugar rates down there; more than 4.5 granules per
+ square inch is fatal...
+
+ Before leaving, find Jenkins' corpse and Cyberdwarf learns "Chaff Grenade"!
+
+_________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+BENEATH LIBERTY ISLAND...
+_________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ The Sugar Counter will appear in the lower-left corner -- if it gets to 4.5,
+ it's game over. The way to proceed through here is to WALK, not dash, because
+ the player can react to the ticker easier (not to mention it stays virtually
+ in the same spot when walking). Running'll just spontaneously sugarify you.
+ Also, try to stay on the dirty path away from the "sugardrifts," for good
+ measure.
+
+ Luckily, the path is rather straightforward. A small cave-in will send a gust
+ of sugar flying down the path; back up and let its flurry pass. Further on, a
+ shadow will move across a bridge. Follow it until a white soda can (?) figure
+ runs away. This time, take the long u-shaped path around instead of the quick
+ way (unless you wanna dieeeeee).
+
+ Keep going west until a sudden vision of sugar (LOL?) happens. A sugarfied
+ body lies along the path here, but isn't that important. Further down, the
+ Diabeastie is waiting...
+
+ BOSS: Reginald   HP: ~1200  EXP: 3598  NS: 581
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ He ain't the diabeastie, but he's here...so let's kill 'im! "Greater Earth
+ Spire" does about 300 to one target, and he can eat a hamburger to recover
+ 999 BP! "Summon Bee Swarm" does about 130/per hit on a target too. Reginald
+ cannot be heavily damaged until the red aura around him dissipates; even then
+ magical-type abilities and skills do pitiful damage. Stick with physical hits
+ and strikes, while Cyberdwarf plays the role of item healer. "Chromatic Orb
+ Lv119" inflicts multiple stat-down effects with a small 100-dmg tag; beware
+ its use in the early going!
+
+ ---
+
+ The [IMMACULATE ROD] is received afterwards. However, upon approaching the
+ Statue of Liberty, the real culprit appears...
+
+ BOSS: Diabeastie  HP: ~1500  EXP: 4378  NS: 658
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ "Sugar Storm" is used to inflict all allies with Diabetes; use Insulin Shot
+ to combat it. Inflict Glaucoma with Water Zauber, and use Muscle Zauber to
+ neutralize some of its all-around effectiveness. "Glomp" is single-target
+ damage (~200), while its got a three-strike physical attack (~100/per) that
+ someone can suffer through. "Spontaneous Sugarfication" does about 5000dmg
+ to a target, which is massive overkill -- still kinda funny. Revive that guy
+ and continue with the normal slaughtering.
+
+ ---
+
+ It drops a [POLESHAFT] after it dissolves (pun?). A right nice fellow named
+ Octavius Steambrast appears at this time, wanting the newly-acquired item.
+ Tell him no, save/heal, and enter the statue. At the end, "Yelmirb" agrees to
+ cure Hoopz' type 2 diabetes...but SUDDENLY OMG:
+
+ BOSS: Vinceborg 2050  HP: ~2000  EXP: 4932  NS: 896
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Our good 'friend' is back. Use Muscle Zauber to reduce his effectiveness, for
+ one...yeah, that's a good start. Vince now knows "Proximity Pass," which puts
+ two mines on two different targets for about 150dmg. "Binary Shower" ups his
+ stats somewhat, which should break even if you decreased a bunch. Oh, and he
+ can heals 400HP & BP this time! Feeding Barkley BP+ items now and then, he
+ just used Doubleteam the whole fight, while Cyberdwarf used Dwarf Caress and
+ his powerful punches when needed. "Short Circuit" just downs a few stats and
+ a waste of a turn, pretty much. He doesn't heal as much as some earlier foes
+ though.
+
+ ---
+
+ Back in the subway station, Juwanna Man gives Barkley a [DIMENSION WHISTLE].
+ She says manufactured jamicite might be in Cuchulainn's Tomb, and the rails
+ can take 'em there. Before talking to the conductor and heading there, make
+ sure to re-equip Hoopz with all his good stuff.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+11) BARREN OUTSKIRTS                                                     [WK11]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+           CUCHULAINN'S TOMB
+                   |
+                 _|¯|_
+                |SAVE |
+                |  ___|        This is a very small and uneventful area. Go
+                | |            east out of the railroad station building --
+               _|¯|            south leads to the town exit where an item
+ CHUP MINES <-|_  |            healer punk stands; north leads to the Chup
+                | |            Mines, savepoint and equipment-seller, and
+     _________ _|¯|            the entrance to Cuchulainn's Tomb.
+    |START   _|_  |
+    |_______|   |_|            The equipment here is pretty good, and if you
+                | |_____       sold Hoopz' F.I.N.A.L. G.U.N., at least the
+                |_____  |      Egyptian Gun is slightly up to par, attackwise
+                |  _____|      at least.
+                |_|     )
+                 |     /       Get the Dwarf Muscle for Cyberdwarf and some
+              EXIT   Secret    Facemasks for better Guard. Not much else other
+                      Boss     than that, although a freak with an "anime PhD"
+                               will talk about monsters if you let him.
+  __________________ _______ _______ _______ _______
+ | WEAPONS          | POWER | GUARD | SPEED | BRAIN | Don't wanna go to the
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯| tomb yet? It will really
+ | Hell Zauber      |  + 44 |       |       |  + 03 | pay off if you mosey to
+ | Dwarfstear       |  + 63 |  + 10 |       |       | the Chup Mines. There
+ | Egyptian Gun     |  + 70 |       |       |       | are other duergars there
+ | Dwarf Muscle     |  + 88 |  + 05 |       |       | that are rebelling from
+ | Mithril Sweatband|       |       |       |  + 22 | their genie oppressors.
+ | Cyber Gauntlet   |  +19  |       |       |       |
+ | Facemask         |       |  + 20 |       |       | Anyway, might as well
+ | Pumps            |       |       |  + 08 |       | cover that section. Skip
+ | Wrist Brace      |  + 06 |       |       |       | if y'don't wanna go.
+ |__________________|_______|_______|_______|_______|
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+12) CHUP MINES [OPTIONAL]                                                [WK12]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯
+                                                     |  _                    |
+ The poor oppressed deurgars are being...well,       | |_| Shrekmono         |
+ oppressed by the genies. Enter the second cavern    | |_| Shrekmon Piccie   |
+ and stick to the middle path; a conversation with   | |_| Mysterious Potion |
+ the clan heads. When asked to mediate the civil     | |_| Genie Lamp        |
+ rights, agree to help. The 'correct' answers to     | |_| Falcon Jodhpurs   |
+ these questions can be gleaned from the complaints  |_______________________|
+ of deurgars in the caves, by the way.
+
+  _______________________________________ ___________________________________
+ | ISSUE                                 | CHOOSE...                         |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+ | What is your opinion on sludge elfs?  | "Can no more coexist than..."     |
+ | How do you feel about sewer crisis?   | "Pro-sewers..."                   |
+ | What should be the primary diet of... | "Dunkaroos"                       |
+ | Remove the ban on bubbling tinctures  | "All brews are now legal"         |
+ | What should.....ensorcelled weaponry? | "I love a good enchantment"       |
+ | Stance on Deugars' patriotic quilts?  | "All quilts must be patriotic"    |
+ | How many hexes...placed on Deugars?   | "0 hexes"                         |
+ | ..ratio of gilded chalices to rubies? | "Rubies rubies rubies!"           |
+ | Allowed # of caverns for spelunking   | "To each his own..."              |
+ |_______________________________________|___________________________________|
+
+ Confirm the choices. Clearly favoring the Deurgars, Jamal Bloodguzzle will
+ reward Barkley for helping his race with a [SHREKMONO] & [SHREKMONO PICCIE]!
+ Also, talk to the once-potionless deurgar to get a [MYSTERIOUS POTION]!
+
+ However, if you decide to be evil and favor the genies the whole way through
+ (by selecting the LAST listed option each time), a [GENIE LAMP]! Also, the
+ genie near the 2nd-screen entrance gives a [FALCON JOHDPURS] for favoring his
+ race.
+
+ It summons Kazaam (Shaq LOL) who will grand some wishes.
+
+ POWER ------> All allies gain +5 VP, BP, Power, Guard, Brain, Speed!
+ WEALTH -----> $5000+
+ KNOWLEDGE --> Information about the Deathtemple
+
+ ---
+
+ Now, it's well and good to favor one side...but what happens if Barkley makes
+ it a true compromise, being the deurgars are slightly favored on four options
+ (Choice 2) and the genies are slightly favored on the other 4 (Choice 3)? It
+ benefits nobody and there ain't any prizes! The best path, prize-wise, is the
+ one that favors the deurgars, it seems.
+
+ Anyway...now to Cuchulainn's Tomb!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+13) CUCHULAINN'S TOMB        [NOTE: There is no 'key' to find here!!!!]  [WK13]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯
+            ___.-> To Save/Vendor/8                      |  _                |
+           |7  |                                         | |_| BBall Juice   |
+      _    |¯|¯   _                                      | |_| BBall Juice   |
+     |_|¯¯¯   ¯¯¯|_|                                     | |_| Pumps         |
+     |_|¯¯¯   ¯¯¯|_|                                     | |_| Chicken Dew   |
+        ¯¯¯| |¯¯¯             1 - BBall Juice [2]        | |_| Chicken Dew   |
+           |_|_  |¯¯¯¯¯|      2 - Pumps                  | |_| Chicken Dew   |
+  ______  _| |H|_| |¯| |      3 - Chicken Dew [5]        | |_| Chicken Dew   |
+ |C    6||     |  _ C| |      4 - Bloody Zauber          | |_| Chicken Dew   |
+  ¯¯| |¯ | | | | |_| | |      5 - 1000 NS                | |_| Bloody Zauber |
+  __| |__| | | |_____| |_     6 - Chicken Fry [2]        | |_| 1000 NS       |
+ |  _____| | |______   __|    7 - Hell B-Ball            | |_| Chicken Fry   |
+ |         | |    __| |__     8 - H/S Ball               | |_| Chicken Fry   |
+ | | |_ ¯| | |   |       |                               | |_| Hell B-Ball   |
+ | |  C| | | |   | |¯¯¯|_|                               | |_| H/S Ball      |
+ |  ¯¯¯| |¯| |¯|_| |_____                                |___________________|
+  ¯¯¯¯¯|  _| |  _   _____|
+       | |_| |4| | |_____    Ah, now this is more like it.
+       |  5| |¯  |      C|
+        ¯¯¯|¯|    ¯¯¯¯¯¯¯    Get the [BBALL JUICE] duo and [PUMPS] in the east
+      _ _  | |  _ _        part of the first room, then a five-fold [CHICKEN
+     | | |_| |_| |3|       DEW] cache in the NE section.
+     |_____   _____|
+      _____| |_____   The second room is a huge maze, and if you want to get
+     |         1 2 |  the door open quickly, there are four crystals to hit
+      ¯¯¯¯¯|_|¯¯¯¯¯   [Even Barkley complains about this stupid setup...]. It
+          ENTER       has to be done in a certain order, however, being:
+
+  Blue -> Green -> Purple -> Red.
+
+  From the entrance, the maze splits into two alongside the main corridor. The
+  green switch is the nearest "C" on the left side; the Blue is the NE crystal
+  on the right side. Purple is the other right-side one, and Red is the NW on
+  the left side. There is a [BLOODY ZAUBER] and [1000 NS] chest strewn along
+  the maze, also. If done in the right order, the locked gate will lift; if
+  the order is screwed up, the "click" of an unlocking object is heard, which
+  tells the player the switch timed out!
+
+  Upon going north, there are four corridors where the party decides to split
+  up. Each has to fight an enemy.
+
+  #1 - Balthios -> Android Officer [~500 HP]  (Megaman ripoff?)
+                -> Adept Soldier  [~1200 HP]  (Master Chief ripoff?)
+                -> Greek Warrior   [~500 HP]  (Kratos ripoff?)
+
+  #2 - C'Dwarf
+
+       He starts in front of an abyss. Pick up the bucket of sand and use the
+       action button to throw it around on the invisible floor. This is how
+       y'get across. I could make a map but it's so easy... Well...maybe...
+
+                      EXIT
+                         |   ¯¯¯¯¯¯¯¯|
+                   |¯¯¯¯¯    /¯¯¯¯¯¯¯
+                   |_   |¯¯¯¯
+                     |  |_______/¯¯¯¯|
+                   | |  |      \     |
+                   |_|__|       \    |
+                    _________________|
+                   | START!!!!!!!!!  |
+                    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+  #3 - Hoopz
+
+       Our young master is stuck in a "neverending" puzzle. If he goes down
+       the wrong path, it seems like he's stuck and has to do it over again!
+       To solve, go the following path at the forks:
+
+       Left -> Middle -> Left -> Right
+
+       You'll know you're doing it right because a tiny red eye will light up
+       (on dragon statues) for each successive correct answer.
+
+  #4 - Barkley
+
+       His #34 Jersey is nearby, and there are switches that control the floor
+       scoreboard (LOL). The numbers are:
+
+             [11][03][19][08][24][15][05]
+
+       Thus, light up [11], [03], [15], and [05]. Zing!
+
+ ---
+
+ Everyone meets up and enters the northernmost room. The [HELL B-BALL] gets
+ equipped on Barkley, who goes off alone to rescue someone or something in
+ the next corridor. The Shimmerglobe then challenges Barkley with the....
+
+ BOSS: Ball Spider  HP: ~500  EXP: 238  NS: 86
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Huh...? This crappy enemy from dungeons past? It uses "Parkinsons Chomp" and
+ and a spinning damage move, but this stuff should barely do 100. Use a great
+ Jam ability to finish this wussbag off.
+
+ ---
+
+ Afterwards, the final verboten jam "Double Dribble" is gained, as well as the
+ [H/S BALL]. It's got lower attack (-10) than the Hell B-ball, but allows Sir
+ Charles to dribble too balls at once...i.e., two attacks.
+
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+BARREN OUTSKIRTS [II]
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ To leave, simply head to the southernmost region of the Barren Outskirts (to
+ where the item-seller is) and leave through the fence. However, in that
+ last area there is a secret boss in the SE corner by the barrels. Press the
+ action button around there to hear a weird "Scooby Doo ghost noise"
+
+ BOSS: Ghastly Darklord   HP: ~2000  EXP: 5255  NS: 1064
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ "Blackout" will kill a randomized character, and "Mystic Eye Beam of Doom"
+ is ripped straight from Vincebot's repertoire, damaging randomized targets
+ for about 80/per. "Tongue Lash" inflicts multiple statuses on one character,
+ so heal that crap away (or use Tobacco). "Head Bash" is a single-target dmg
+ attack...yawn! Basically, to do the most damage, equip the H/S Ball, use the
+ ever-useful Ghost Muscle, and Doubleteam this guy repeatedly. Muscle Zauber
+ helps impair his stats a bit. Hoopz should use Gun Slay; barring that, he
+ should relegate himself to item-healer (make sure to set his 100% dodge
+ attack in place though). "Soul Consume" can heal the boss for about 380, so
+ make sure to keep Doubleteam goin'! [PS: Darklord is immune to Glaucoma and
+ Diabetes.]
+
+ A [GOLDEN POTATO] can be recovered from where the boss died...get it! Using
+ the thing will summon Hiratio to instantly kill any enemy in the game. It's
+ consumable, though, so choose the timing wisely.
+
+ ---
+
+ Now, it's time to leave town through the SW exit...! The world map is at
+ last revealed! Unfortunately it's a very easy, straightforward path to where
+ Cyberdwarf's crashed ship is. Prepare before going and it's blast-off...
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+14) NECRON 5                                                             [WK14]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ The pump will ask Hoopz some questions before saving is possible. This line
+ of interesting "gaijin" queries only happens once, so don't screw up. Answer
+ the following:
+__________________________________   So what do you win? Nothing -- there are
+                                  |  no library cards that the pump says were
+ • Vidcon                         |  supposed to have been collected. Doy...!
+ • Arc the Lad 2                  |
+ • Pocky                          |  Heal up at the floor 'coaster' by the
+ • Celto-tropic                   |  vending machine, stock up if y'need, and
+ • Angelique: Tenkuu no Chinkonka |  trek north, son. The derelict basketball
+__________________________________|  court is the destination... Barkley will
+                                     fight the next battle by his lonesome...
+
+ BOSS: Jordan   HP: ~2400  EXP: 1534  NS: 389
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Make sure the H/S Ball is equipped before coming into this battle. If you did
+ the Chup Mines sidequest and got the Shrekmono, most of Jordan's attacks will
+ be doing a lot less damage than one'd expect. Use Ghost Muscle + Doubleteam
+ to expedite, and heal when needed (watch out for "H-H-Head Shot," which may
+ be the best move ever invented...just see it). Still got "Defy Clispaeth,"
+ although it won't do him much good here. Sucka MCs must diyeeeeeee~!
+
+ ---
+
+ Afterwards, if you try to leave, Cyberdwarf suggests using the Dimension
+ Whistle Juwanna gave to the party.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+15) B-BALL DIMENSION [OPTIONAL]                                          [WK15]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Carmelo Anthony, the hoopster by the pump, will teleport everyone outta this
+ place, but be warned: there's no coming back. So, let's try the festivities!
+ Remember: this entire place is optional!
+
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+B-BALL DATING SERVICE
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ No, not Charles! Cyberdwarf is the one who hasn't felt a woman's touch in a
+ long time. He only likes "applebottoms," apparently. The WNBA's Ivory Latta
+ will be the only suitable match, apparently. They go into the backroom to get
+ to know each other better. Choose the following replies in order to, uh, win
+ this...uh, thing.
+
+ • That's a pretty name, Ivory
+ • What are some of your interests?
+ • What books do you like?
+ • I also read romance novels.
+ • I think you doubt yourself.
+ • I don't think so.
+ • That...that was amazing.
+
+ Latta should bring C'dwarf out into the fresh air (does that exist here??)
+
+ • It's...beautiful.
+ • What do you usually think about?
+
+ They should kiss and Cyberdwarf should get the [TUPPERWARE ARMOR] and...also,
+ an [IVORY'S BROMIDE].
+
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+B-BALL FARM SIMULATOR
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ What may be the funniest take on Chocobo breeding, Barkley can raise his own
+ pet b-ball. Barkley's old coach will help describe what each command does
+ (feeding, watering, playing with b-ball). As far as I know, there's no real
+ outcome to this besides wasting lots of money and getting the same note about
+ "anything else?" :p
+
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+THE B-BALL TOURNAMENT
+_____________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Talk with Meadowlark Lemon to learn there's a tournament around, and the
+ winner gets a 1-of-a-kind prize! The reigning champ is Kevin Garnett and has
+ never once been defeated. The arena's right near the pump, too. Register for
+ the showdowns and talk with Garnett a little. Then, it's off to a Hellblazen
+ Battlesquare for the matches!
+
+ BOSS: Hell Orc  HP: ~100  EXP: 338  NS: 68
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Oh, so Shrek's here? Any move can kill this sucker...his HP is horrible.
+
+ BOSS: Doomhell Skele  HP: ~200  EXP: 351  NS: 71
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Again, easy as pie.
+
+ BOSS: Blood Ghoul  HP: ~200  EXP: 351  NS: 71
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ The H/S Ball eviscerates chaff like this.
+
+ BOSS: Delmon Master  HP: ~1000  EXP: 372  NS: 75
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Still pretty easy, but a step up in difficulty...slightly. Even at only Lv12
+ Barkley will probably three times faster than this sucker. In fact, he will
+ suicide himself with "Flamesplosion," probably in awe of Barkley's talented
+ abilities. Make sure to heal your HP/BP before moving onto the champion...
+
+ BOSS: Kevin Garnett  HP: ~1500  EXP: 355  NS: 71
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ "Dipsy Doo Dunkaroo" can inflict damage and Guard -25 (!?), which should not
+ matter too much -- Barkley is clearly faster and can sink his teeth in, even
+ with simple Forward Jumpers. Watch out for the "Dojo Kick" which can do 200+,
+ if it even comes to that.
+
+ The final prize? A [MITHRIL JERSEY]!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+16) NECRON 5                                                             [WK16]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ After leaving the B-Ball Dimension, it's back to the desolate court again...
+ Head north from the arrival point and when you meet the "shadowy figure," the
+ choice to join or refuse him comes up. Make sure to refuse or it's game over!
+
+ BOSS: Shadow Barkley  HP: ~2000  EXP: 4  NS: 4
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Haha, by far one of the funniest boss sprites...eat it, FF7! "Plague Needle"
+ will inflict Diabetes/Glaucoma on everyone. "Verboten Jam" will probably kill
+ whoever it hits, even if you use multiple Muscle Zaubers. "Moon Regeneration"
+ will refill HP (~560) and heal ailments; just recast 'em when this happens.
+ "Shadow Lightning" deals about 100dmg/per hit in a scattershot fashion. "Dark
+ Vortex" does about 200 to a single target...
+
+ Use Insulin Shot when the time arises, and use Water Zauber to inflict both
+ Glaucoma & Diabetes on the boss. Cyberdwarf should keep his BP up and Dwarf
+ Caress when the hurt is put on. Sir Charles should just use Doubleteam every
+ turn, while someone feeds him items. I mean, this is the last battle -- why
+ save the inventory? Make sure to Ghost Muscle beforehand, and keep hitting
+ it with Diabetes for an extra 147 or so damage per turn.
+
+ But that ain't all!
+
+ BOSS: T-Rex Barkley  HP: ~3000  EXP: 4  NS: 4
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Haha... "Chomp Chomp Yum Yum" drains as much damage as it inflicts, usually
+ about 400. "Dinosaur Spit" heavily lowers the four main stats on a single
+ character. "Doomfire Death" inflicts 9999dmg on two random targets...! "Tail
+ Whip" hits thrice on one target and "Flamehell" does about 250-300 to all
+ targets.
+
+ This battle is most annoying because of the draining skill. Barkley should
+ once again Ghost Muscle + Doubleteam, while Muscle/Flame Zauber is put into
+ effect (Zeta Slash may help as well for reducing its turn rate). Cyberdwarf
+ will find much use for his "Caress" ability, and young master Hoopz is mostly
+ relegated to item-thrower due to his great speed. Hoopz should also use his
+ 100% Dodge ability, because this is a free evade that's stored for the next
+ time he's attacked (even if he does things inbetween!). Snail Zauber will be
+ of use, too, if you have it.
+
+          _________          _______    _______  _        ______   _
+          \__   __/|\     /|(  ____ \  (  ____ \( (    /|(  __  \ ( )
+             ) (   | )   ( || (    \/  | (    \/|  \  ( || (  \  )| |
+             | |   | (___) || (__      | (__    |   \ | || |   ) || |
+             | |   |  ___  ||  __)     |  __)   | (\ \) || |   | || |
+             | |   | (   ) || (        | (      | | \   || |   ) |(_)
+             | |   | )   ( || (____/\  | (____/\| )  \  || (__/  ) _
+             )_(   |/     \|(_______/  (_______/|/    )_)(______/ (_)
+
+
+                 Enjoy the ending and Victorian Steampunk Mode!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+17) APPENDICES                                                           [APND]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ This section looks like crap 'cause I can't really fit the tables around like
+ I want to. Haha, may Clispaeth strike me down!
+
+  __________________ _______
+ | ARMOR            | GUARD |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|
+ | Robe             |  + 02 |
+ | Rags             |  + 03 |
+ | Jacket           |  + 05 |
+ | Jersey           |  + 09 |
+ | Referee Uniform  |  + 14 |
+ | Cyber-Tunic      |  + 16 |
+ | Trenchcoat       |  + 17 |
+ | Ultimate Wristband  + 19 |
+ | Zaubermancer Garb|  + 24 |
+ | Mithril Jersery  |  + 26 |
+ | Tek-Skeleton     |  + 31 |
+ | Falcon Johdpurs  |  + 34 |
+ | Shrekmono        |  + 36 |
+ | Tupperware Armor |  + 45 |
+ |__________________|_______|
+
+  __________________ _______ _______ _______ _______
+ | WEAPONS          | POWER | GUARD | SPEED | BRAIN |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|
+ | Soccerball       |  + 00 |       |       |       |
+ | Fire Zauber      |  + 00 |       |       |       |
+ | Rusty Muscle     |  + 00 |       |       |       |
+ | ZX Zaubertech1   |  + 00 |       |       |       |
+ | Volleyball       |  + 08 |       |       |       |
+ | Ice Zauber       |  + 08 |       |       |       |
+ | ZX Zaubertech2   |  + 10 |       |       |       |
+ | Dwarf Pride      |  + 15 |       |       |       |
+ | Thunder Zauber   |  + 20 |       |       |       |
+ | Mithril'braster  |  + 20 |       |       |       |
+ | B-Ball           |  + 26 |       |       |       |
+ | Battlestech Gun  |  + 30 |       |       |       |
+ | Time Zauber      |  + 32 |       |       |       |
+ | Dwarf Warhammer  |  + 33 |       |       |       |
+ | ZX ModelX571X    |  + 36 |       |       |       |
+ | Spiked B-Ball    |  + 38 |       |       |       |
+ | Dwarfbane        |  + 43 |       |       |       |
+ | Hell Zauber      |  + 44 |       |       |  + 03 |
+ | Snail Zauber     |  + 48 |  + 20 |       |  + 04 |
+ | Mystic B-Ball    |  + 54 |       |       |       |
+ | Bloody Zauber    |  + 60 |       |       |  + 03 |
+ | Dwarfstear       |  + 63 |  + 10 |       |       |
+ | Egyptian Gun     |  + 70 |       |       |       |
+ | F.I.N.A.L. G.U.N.|  + 72 |       |  + 05 |  + 10 |
+ | Dwarftear        |  + 88 |  + 05 |       |       |
+ | H/S Ball         |  + 80 |       |       |       |
+ | Hell B-Ball      |  + 90 |       |       |       |
+ |__________________|_______|_______|_______|_______|
+
+  __________________ _______ _______ _______ _______
+ | BLING            | POWER | GUARD | SPEED | BRAIN |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|¯¯¯¯¯¯¯|
+ | Ace Bandage      |       |  + 07 |       |       |
+ | Athletic Supporter       |  + 32 |       |       |
+ | Bapes            |       |       |  + 02 |       |
+ | Backwards Cap    |       |  + 03 |       |       |
+ | Cyber Gauntlet   |  +19  |       |       |       |
+ | Facemask         |       |  + 20 |       |       |
+ | Goggles          |       |       |       |  + 14 |
+ | Maureen's Ring   |       |       |  + 01 |       |
+ | Nikes            |       |       |  + 14 |       |
+ | Pumps            |       |       |  + 08 |       |
+ | Sunglasses       |       |       |       |  + 02 |
+ | Sweatband        |       |       |       |  + 06 |
+ | Wrist Brace      |  + 06 |       |       |       |
+ |__________________|_______|_______|_______|_______|
+
+  __________________ ________________________________________________________
+ | ITEM             | ITEM'S EFFECT                                          |
+ |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+ | Alcohol          | Cures Aspergers                                        |
+ | BBall Juice      | Heals VP by 99%                                        |
+ | BBall Shard      | Heals BP by 50%                                        |
+ | BBall Tear       | Heals BP by 100%                                       |
+ | Chicken Dew      | Revives character with 100% VP                         |
+ | Chicken Fry      | Revives allies with 100% VP & MP; Cures all statuses!  |
+ | Chup             | Cures Glaucoma                                         |
+ | Ecto Cooler      | Heals VP by 66%                                        |
+ | Ecto Cooler?     | Heals BP/VP by 20%                                     |
+ | Fstone Mvitamin  | Cures Parkinsons                                       |
+ | Gatorade Gum     | Permanently raises VP by 25                            |
+ | Genie Lamp       | Shaped less like a lamp and more like a boom box...    |
+ | Golden Potato    | Summons a legendary potato in battle...                |
+ | Gun's Sticker    | I Love Gun's Sticker. Labeled 1 of 1 in crayon         |
+ | Insulin          | Cures Diabetes                                         |
+ | Ivory's Bromide  | A bromide of Ivory Latta                               |
+ | Mysterious Potion| Permanently raises VP by 50                            |
+ | Protein Paste    | Heals VP by 33%                                        |
+ | Rags             | Heals VP by 66%                                        |
+ | Shrekmono Piccie | A photograph of the legendary kimono                   |
+ | Steroid          | Revives character with 50% VP                          |
+ | Tobacco          | Cures all status ailments and negative stat mods       |
+ |__________________|________________________________________________________|
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+18) FREQUENTLY ASKED QUESTIONS                                           [FAQZ]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+[Q] - How do I save?
+[A] - Talk to the chatterbox gas pumps around the towns & dungeons
+
+[Q] - I can't figure out how to do this (Attack) skill right!
+[A] - Press left/right to see the base accuracy and method for performing it.
+
+[Q] - Hey, Cyberdwarf's finishers are raising the target's stats!!!!
+[A] - The version of the game yer playing is outdated. That has been fixed. :p
+
+[Q] - How do I get all the Library cards / Cuchulainn's Key?
+[A] - You don't. They don't exist. This is supposed to be an in-joke, I think,
+      and has been debunked by the creators on a few sites.
+
+[Q] - In Necron 5, how do I open the door that needs the Cuchulainn's Tomb Key?
+[A] - The key doesn't seem to exist -- another joke at our expense. =(
+
+[Q] - What is Victorian Steampunk mode?
+[A] - The game takes a funny twist, with some characters being renamed, their
+      portraits being changed (Hoopz now looks like a neathdrathal, for one),
+      and there's a generally more "proper" feel to the people. The Ultimate
+      Hellbane becomes "Supreme Cogblight," and there's other britishisms to
+      find, haha. Nothing carries over (item, money, etc.) though.
+
+[Q] - I heard there's a "Hell" area in this game?
+[A] - Yes, there is...the Deathtemple. To gain access to it, y'must be a
+      complete jerkwad all throughout the game. The noted instances are the
+      following:
+
+      - In Neo New York City, do not give kid by church any neo-shekels
+      - In NNYC Sewers, do not give slacker outside of Allard's office any $$$
+      - In Proto NNYC, do not apologize to Wildman (next door to Juwanna Mann)
+      - Do not give the Poleshaft to Octavius Steambrast on Liberty Island
+      - In the B-Ball Dimension, do not spot Dick Vitale any money
+
+      Being nice to any of these five people prevents access to Hell. To get
+      to that hot location, complete the requirements and die; instead of
+      going to the game over screen, Barkley winds up there.
+
+[Q] - Who is Hiratio?
+[A] - He's in a series of potato games at gzstorm.com
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+19) UPDATES & THANKS                                                     [UPDT]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ 02-01-08 ------------------------+ Started this rollercoaster ride
+ 02-04-08 ------------------------+ Added to GameFAQs
+ 03-12-08 ------------------------+ Error corrections
+
+__________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ITEMS TO HELP WITH
+__________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ - List of requirements to get into "Hell"
+ - Any special skills I missed because I didn't power-level [etc.]
+
+__________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MUCH OBLIGED TO...
+__________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ - Sir Charles himself
+
+ - The people who put their time into making this game, or helped in creation.
+   Seriously, guys, this is a huge victory for y'.
+
+          * Bort                * Jester              * Ramci
+          * Chef Boyardee       * Kaworu              * RPG
+          * Drule               * Konix               * Skie Fortress
+          * GZ                  * Medieve             * Steel
+          * Bunnymilk           * Psychoskull         * Waluigi Soap
+
+ - Also, a 2nd thanks to GZ for telling me some of the intracacies about how
+   Deathtemple and some secrets worked.
+
+ - Manguero for filling me in on some of the abnormalities' functions
+
+ - The messageboards at GameFAQs for inadvertantly helping me w/ questions
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+20) LEGALITY                                                             [LGLT]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This document is intended for private home use ONLY, and may not be reproduced
+through electronic or commercial means without the expressed consent of the
+author (P. Summers). It cannot be hosted, edited, or distributed for profit,
+and may not be given away as an add-in/gift to bought items. All rights are
+reserved to respective parties, even those not explicitly stated herein. Those
+who find this document on sites not listed below should e-mail the author (me).
+Thanks for reading this, and thanks for respectin' FAQ authors.
+
+ Allowed Sites:                       Disallowed Sites:
+
+  * Gametalk.com                       * cheatcc.com
+  * GameFAQs.com
+  * MyCheats.com
+  * Neoseeker.com
+  * Supercheats.com
+  * Honestgamers.com
+  * Cavesofnarshe.com
+
+                  E-mail me for permissions ~ shotgunnova (a+) gmail (d0t) com.
+_______________________________________________________________________________
+DO IT FOR THE STRONG;         Document © Shotgunnova, 1997-2008 (and countin'!)
+WE DO IT FOR THE MEEK                 Barkley SU&J namesake © respective owners
+                                                  E N D   O F   D O C U M E N T
